@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: 23528ce25cb35812b834371c7aea1268
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4214583757898097404
+    second: Polar_Ocean_Glacier_0
+  - first:
+      213: -1346872753593035205
+    second: Polar_Ocean_Glacier_1
+  - first:
+      213: 8551685549679835146
+    second: Polar_Ocean_Glacier_2
+  - first:
+      213: 5734583885330066310
+    second: Polar_Ocean_Glacier_3
+  - first:
+      213: -7851613048053670276
+    second: Polar_Ocean_Glacier_4
+  - first:
+      213: 186937341009641921
+    second: Polar_Ocean_Glacier_5
+  - first:
+      213: -8080642409763033689
+    second: Polar_Ocean_Glacier_6
+  - first:
+      213: -4264023346488977944
+    second: Polar_Ocean_Glacier_7
+  - first:
+      213: 3453459855572063365
+    second: Polar_Ocean_Glacier_8
+  - first:
+      213: 5267634571208523951
+    second: Polar_Ocean_Glacier_9
+  - first:
+      213: -7963226228253394959
+    second: Polar_Ocean_Glacier_10
+  - first:
+      213: 3487724934507552809
+    second: Polar_Ocean_Glacier_11
+  - first:
+      213: 2636300887152533215
+    second: Polar_Ocean_Glacier_12
+  - first:
+      213: 366713034374215950
+    second: Polar_Ocean_Glacier_13
+  - first:
+      213: 8950671543868256366
+    second: Polar_Ocean_Glacier_14
+  - first:
+      213: 5336897539025092438
+    second: Polar_Ocean_Glacier_15
+  - first:
+      213: -436885221749769525
+    second: Polar_Ocean_Glacier_16
+  - first:
+      213: -1677471537641037415
+    second: Polar_Ocean_Glacier_17
+  - first:
+      213: 3085822950526159183
+    second: Polar_Ocean_Glacier_18
+  - first:
+      213: -1805411415218271063
+    second: Polar_Ocean_Glacier_19
+  - first:
+      213: 3523675054515718016
+    second: Polar_Ocean_Glacier_20
+  - first:
+      213: -3184944038046005206
+    second: Polar_Ocean_Glacier_21
+  - first:
+      213: -3562340476036706800
+    second: Polar_Ocean_Glacier_22
+  - first:
+      213: -4135388274126798015
+    second: Polar_Ocean_Glacier_23
+  - first:
+      213: -8746456774419328076
+    second: Polar_Ocean_Glacier_24
+  - first:
+      213: -2920953669103589042
+    second: Polar_Ocean_Glacier_25
+  - first:
+      213: 2782569972096974324
+    second: Polar_Ocean_Glacier_26
+  - first:
+      213: 3822722116527427602
+    second: Polar_Ocean_Glacier_27
+  - first:
+      213: -6556897058954607367
+    second: Polar_Ocean_Glacier_28
+  - first:
+      213: -5369766226589942604
+    second: Polar_Ocean_Glacier_29
+  - first:
+      213: -5085835396283794720
+    second: Polar_Ocean_Glacier_30
+  - first:
+      213: -4166008533587841798
+    second: Polar_Ocean_Glacier_31
+  - first:
+      213: -9036040606315999042
+    second: Polar_Ocean_Glacier_32
+  - first:
+      213: -5945918857526855484
+    second: Polar_Ocean_Glacier_33
+  - first:
+      213: 370292460980638722
+    second: Polar_Ocean_Glacier_34
+  - first:
+      213: 8543649593720836609
+    second: Polar_Ocean_Glacier_35
+  - first:
+      213: -3211390720159201858
+    second: Polar_Ocean_Glacier_36
+  - first:
+      213: 3857549408310109722
+    second: Polar_Ocean_Glacier_37
+  - first:
+      213: -677427641714498005
+    second: Polar_Ocean_Glacier_38
+  - first:
+      213: 384652612960327312
+    second: Polar_Ocean_Glacier_39
+  - first:
+      213: -2474896557329640181
+    second: Polar_Ocean_Glacier_40
+  - first:
+      213: 6345782825361993809
+    second: Polar_Ocean_Glacier_41
+  - first:
+      213: 4220425109187496930
+    second: Polar_Ocean_Glacier_42
+  - first:
+      213: -8844813214369376821
+    second: Polar_Ocean_Glacier_43
+  - first:
+      213: -735424864468084568
+    second: Polar_Ocean_Glacier_44
+  - first:
+      213: -1110440493051285962
+    second: Polar_Ocean_Glacier_45
+  - first:
+      213: 3478734250469979136
+    second: Polar_Ocean_Glacier_46
+  - first:
+      213: 6561281724925210674
+    second: Polar_Ocean_Glacier_47
+  - first:
+      213: -7150000534875992012
+    second: Polar_Ocean_Glacier_48
+  - first:
+      213: -2093068774467799055
+    second: Polar_Ocean_Glacier_49
+  - first:
+      213: 2951811963274586477
+    second: Polar_Ocean_Glacier_50
+  - first:
+      213: 6706853299219894407
+    second: Polar_Ocean_Glacier_51
+  - first:
+      213: 549448613423122206
+    second: Polar_Ocean_Glacier_52
+  - first:
+      213: 4400168670871978772
+    second: Polar_Ocean_Glacier_53
+  - first:
+      213: -2827514322899064553
+    second: Polar_Ocean_Glacier_54
+  - first:
+      213: -6838181848261707642
+    second: Polar_Ocean_Glacier_55
+  - first:
+      213: -3965205552147004981
+    second: Polar_Ocean_Glacier_56
+  - first:
+      213: 9140927224157802099
+    second: Polar_Ocean_Glacier_57
+  - first:
+      213: 1044558948873944309
+    second: Polar_Ocean_Glacier_58
+  - first:
+      213: 2024624152808582229
+    second: Polar_Ocean_Glacier_59
+  - first:
+      213: 7705751850590935265
+    second: Polar_Ocean_Glacier_60
+  - first:
+      213: -109173201514168138
+    second: Polar_Ocean_Glacier_61
+  - first:
+      213: 4749125377737088669
+    second: Polar_Ocean_Glacier_62
+  - first:
+      213: 8089169217208468668
+    second: Polar_Ocean_Glacier_63
+  - first:
+      213: 881417641547048328
+    second: Polar_Ocean_Glacier_64
+  - first:
+      213: 1364140150797241214
+    second: Polar_Ocean_Glacier_65
+  - first:
+      213: 5372767151373541216
+    second: Polar_Ocean_Glacier_66
+  - first:
+      213: -6201220825587812554
+    second: Polar_Ocean_Glacier_67
+  - first:
+      213: 5556989882815560919
+    second: Polar_Ocean_Glacier_68
+  - first:
+      213: 8106157376832959652
+    second: Polar_Ocean_Glacier_69
+  - first:
+      213: 1707069323385236282
+    second: Polar_Ocean_Glacier_70
+  - first:
+      213: -372656407587479940
+    second: Polar_Ocean_Glacier_71
+  - first:
+      213: -1389234171707370477
+    second: Polar_Ocean_Glacier_72
+  - first:
+      213: -224976788018839829
+    second: Polar_Ocean_Glacier_73
+  - first:
+      213: 5547906114381937436
+    second: Polar_Ocean_Glacier_74
+  - first:
+      213: 8825842434782440693
+    second: Polar_Ocean_Glacier_75
+  - first:
+      213: -8138572168885528388
+    second: Polar_Ocean_Glacier_76
+  - first:
+      213: -3693927288551654332
+    second: Polar_Ocean_Glacier_77
+  - first:
+      213: -3233059914501261485
+    second: Polar_Ocean_Glacier_78
+  - first:
+      213: 560785081525144807
+    second: Polar_Ocean_Glacier_79
+  - first:
+      213: 3929379593324083252
+    second: Polar_Ocean_Glacier_80
+  - first:
+      213: 6425768109298696271
+    second: Polar_Ocean_Glacier_81
+  - first:
+      213: -7046721580965231325
+    second: Polar_Ocean_Glacier_82
+  - first:
+      213: 8565763254377056651
+    second: Polar_Ocean_Glacier_83
+  - first:
+      213: -2231260045119059514
+    second: Polar_Ocean_Glacier_84
+  - first:
+      213: 9008845882083644177
+    second: Polar_Ocean_Glacier_85
+  - first:
+      213: -2678322328119792657
+    second: Polar_Ocean_Glacier_86
+  - first:
+      213: 8176180121291601485
+    second: Polar_Ocean_Glacier_87
+  - first:
+      213: -5459032477109185692
+    second: Polar_Ocean_Glacier_88
+  - first:
+      213: 8396853083497808337
+    second: Polar_Ocean_Glacier_89
+  - first:
+      213: 2585545415717643464
+    second: Polar_Ocean_Glacier_90
+  - first:
+      213: 7774847397662546001
+    second: Polar_Ocean_Glacier_91
+  - first:
+      213: -6012531462975157254
+    second: Polar_Ocean_Glacier_92
+  - first:
+      213: 4361841158981439956
+    second: Polar_Ocean_Glacier_93
+  - first:
+      213: -1707826311121199349
+    second: Polar_Ocean_Glacier_94
+  - first:
+      213: -2044912598534322740
+    second: Polar_Ocean_Glacier_95
+  - first:
+      213: -5195920611840443722
+    second: Polar_Ocean_Glacier_96
+  - first:
+      213: 7032548047881217716
+    second: Polar_Ocean_Glacier_97
+  - first:
+      213: -7476624608298261342
+    second: Polar_Ocean_Glacier_98
+  - first:
+      213: 2974883727613005044
+    second: Polar_Ocean_Glacier_99
+  - first:
+      213: -713837526241986666
+    second: Polar_Ocean_Glacier_100
+  - first:
+      213: -8619726152171506157
+    second: Polar_Ocean_Glacier_101
+  - first:
+      213: -4782317591899611639
+    second: Polar_Ocean_Glacier_102
+  - first:
+      213: 5429788042975328094
+    second: Polar_Ocean_Glacier_103
+  - first:
+      213: 3358887227875174048
+    second: Polar_Ocean_Glacier_104
+  - first:
+      213: -2273948902174660486
+    second: Polar_Ocean_Glacier_105
+  - first:
+      213: -877024952402062808
+    second: Polar_Ocean_Glacier_106
+  - first:
+      213: 8121780588670216438
+    second: Polar_Ocean_Glacier_107
+  - first:
+      213: 6372470294651593980
+    second: Polar_Ocean_Glacier_108
+  - first:
+      213: -3042380929694643037
+    second: Polar_Ocean_Glacier_109
+  - first:
+      213: 9183329091150966943
+    second: Polar_Ocean_Glacier_110
+  - first:
+      213: -1242171058624522288
+    second: Polar_Ocean_Glacier_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40d5a5ae66ac285c0800000000000000
+      internalID: -4214583757898097404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b365f6cdd52fe4de0800000000000000
+      internalID: -1346872753593035205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a08f18bd2b0bda670800000000000000
+      internalID: 8551685549679835146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b27cb19a5559f40800000000000000
+      internalID: 5734583885330066310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e50fc4887790390800000000000000
+      internalID: -7851613048053670276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c1c22e6582289200800000000000000
+      internalID: 186937341009641921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ad2e199a8acbdf80800000000000000
+      internalID: -8080642409763033689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e55d8eab5523d4c0800000000000000
+      internalID: -4264023346488977944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584d17101772def20800000000000000
+      internalID: 3453459855572063365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0837fbbb56a1940800000000000000
+      internalID: 5267634571208523951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7f1e6bfefec7190800000000000000
+      internalID: -7963226228253394959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92068936953e66030800000000000000
+      internalID: 3487724934507552809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde16cb60b5069420800000000000000
+      internalID: 2636300887152533215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e097164df83d61500800000000000000
+      internalID: 366713034374215950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60f671b85c273c70800000000000000
+      internalID: 8950671543868256366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65f3f302908701a40800000000000000
+      internalID: 5336897539025092438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcabcfd943fdfe9f0800000000000000
+      internalID: -436885221749769525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e31e268c68b8e0800000000000000
+      internalID: -1677471537641037415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f490cd5cf9b03da20800000000000000
+      internalID: 3085822950526159183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9acca7222e3e1f6e0800000000000000
+      internalID: -1805411415218271063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0878058facb96e030800000000000000
+      internalID: 3523675054515718016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2805ce954eccc3d0800000000000000
+      internalID: -3184944038046005206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01e06dc0636009ec0800000000000000
+      internalID: -3562340476036706800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1434b5066462c96c0800000000000000
+      internalID: -4135388274126798015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b35d6587e75e9680800000000000000
+      internalID: -8746456774419328076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e49e4b32d10b677d0800000000000000
+      internalID: -2920953669103589042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd328d95acad9620800000000000000
+      internalID: 2782569972096974324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21095a6e2890d0530800000000000000
+      internalID: 3822722116527427602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f405346dd83105a0800000000000000
+      internalID: -6556897058954607367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc77313112ca75b0800000000000000
+      internalID: -5369766226589942604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 54
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea756a27ab7b69b0800000000000000
+      internalID: -5085835396283794720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc2048af4d5f26c0800000000000000
+      internalID: -4166008533587841798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0978c81f8899280800000000000000
+      internalID: -9036040606315999042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8b0d94d4adb7da0800000000000000
+      internalID: -5945918857526855484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_34
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20491c7080b832500800000000000000
+      internalID: 370292460980638722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_35
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102142f0a04219670800000000000000
+      internalID: 8543649593720836609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5cce99729de63d0800000000000000
+      internalID: -3211390720159201858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_37
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16a7d9afb4c88530800000000000000
+      internalID: 3857549408310109722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_38
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a396262b4996f0800000000000000
+      internalID: -677427641714498005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_39
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0961d65738f865500800000000000000
+      internalID: 384652612960327312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_40
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b05978491b667add0800000000000000
+      internalID: -2474896557329640181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_41
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150f977bbdfb01850800000000000000
+      internalID: 6345782825361993809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_42
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb824aa646f19a30800000000000000
+      internalID: 4220425109187496930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_43
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc515dc4e39e04580800000000000000
+      internalID: -8844813214369376821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_44
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8d3627bfe3bc5f0800000000000000
+      internalID: -735424864468084568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_45
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63ee773414ce690f0800000000000000
+      internalID: -1110440493051285962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_46
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0047f33ae52f64030800000000000000
+      internalID: 3478734250469979136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_47
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230fd6537fa5e0b50800000000000000
+      internalID: 6561281724925210674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_48
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4301dd6556816cc90800000000000000
+      internalID: -7150000534875992012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f772670a0de3f2e0800000000000000
+      internalID: -2093068774467799055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_50
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d69eaba5751f6f820800000000000000
+      internalID: 2951811963274586477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_51
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78098ac8a87831d50800000000000000
+      internalID: 6706853299219894407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_52
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e178a615a9800a700800000000000000
+      internalID: 549448613423122206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_53
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4138023d71a801d30800000000000000
+      internalID: 4400168670871978772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_54
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719a54244b6a2c8d0800000000000000
+      internalID: -2827514322899064553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_55
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68836d8d6d5e911a0800000000000000
+      internalID: -6838181848261707642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_56
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc10fd21f82c8f8c0800000000000000
+      internalID: -3965205552147004981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_57
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e8f9131e81bde70800000000000000
+      internalID: 9140927224157802099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_58
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc369664d40f7e00800000000000000
+      internalID: 1044558948873944309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_59
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55ce4d7a0f8e81c10800000000000000
+      internalID: 2024624152808582229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_60
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e818c53b7450fa60800000000000000
+      internalID: 7705751850590935265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_61
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b081c83d832c7ef0800000000000000
+      internalID: -109173201514168138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_62
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9edfcd7e5848e140800000000000000
+      internalID: 4749125377737088669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_63
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb44cb77b80824070800000000000000
+      internalID: 8089169217208468668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885ac2fccac6b3c00800000000000000
+      internalID: 881417641547048328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b0e185d366ee210800000000000000
+      internalID: 1364140150797241214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_66
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06fd18e0247ef8a40800000000000000
+      internalID: 5372767151373541216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_67
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637751db386d0f9a0800000000000000
+      internalID: -6201220825587812554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_68
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dc39a13bd46e1d40800000000000000
+      internalID: 5556989882815560919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_69
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a47a8b9f2bde7070800000000000000
+      internalID: 8106157376832959652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_70
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3be753518ab0b710800000000000000
+      internalID: 1707069323385236282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_71
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e9972c8fe04daf0800000000000000
+      internalID: -372656407587479940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_72
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3145c8d91e278bce0800000000000000
+      internalID: -1389234171707370477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_73
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beebd63adc8b0ecf0800000000000000
+      internalID: -224976788018839829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_74
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1bf3fa873f1efc40800000000000000
+      internalID: 5547906114381937436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_75
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fca6c0eee0bb7a70800000000000000
+      internalID: 8825842434782440693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_76
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb892be7bbbfd0f80800000000000000
+      internalID: -8138572168885528388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_77
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44cb1cbc3b88cbcc0800000000000000
+      internalID: -3693927288551654332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_78
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 357f892232dd123d0800000000000000
+      internalID: -3233059914501261485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_79
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec05ab7f0f48c700800000000000000
+      internalID: 560785081525144807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_80
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43830cfdbe5f78630800000000000000
+      internalID: 3929379593324083252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_81
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4048cbdc0aec2950800000000000000
+      internalID: 6425768109298696271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_82
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3250d77ae04053e90800000000000000
+      internalID: -7046721580965231325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_83
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b890d37eb44bfd670800000000000000
+      internalID: 8565763254377056651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_84
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c908298fc8f801e0800000000000000
+      internalID: -2231260045119059514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11316dd4999d50d70800000000000000
+      internalID: 9008845882083644177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_86
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb2c6e6800b4dad0800000000000000
+      internalID: -2678322328119792657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_87
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4632354080a77170800000000000000
+      internalID: 8176180121291601485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_88
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4631690a2ee9d34b0800000000000000
+      internalID: -5459032477109185692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_89
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1c709146d978470800000000000000
+      internalID: 8396853083497808337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_90
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c46d765bd3b1e320800000000000000
+      internalID: 2585545415717643464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_91
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158db88e38ec5eb60800000000000000
+      internalID: 7774847397662546001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_92
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb818c7d723f8ca0800000000000000
+      internalID: -6012531462975157254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_93
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d154cf8c6f588c30800000000000000
+      internalID: 4361841158981439956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_94
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f1e8bb4059c48e0800000000000000
+      internalID: -1707826311121199349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_95
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc504a773d20f93e0800000000000000
+      internalID: -2044912598534322740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6babe129bb164e7b0800000000000000
+      internalID: -5195920611840443722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_97
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6a3d38031a89160800000000000000
+      internalID: 7032548047881217716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_98
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a420771881bd3890800000000000000
+      internalID: -7476624608298261342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_99
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fc86781df8e84920800000000000000
+      internalID: 2974883727613005044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_100
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697b00d4d80f716f0800000000000000
+      internalID: -713837526241986666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_101
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3163caedbb4906880800000000000000
+      internalID: -8619726152171506157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_102
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ed8bbec7bc1adb0800000000000000
+      internalID: -4782317591899611639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_103
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e573533f47b7a5b40800000000000000
+      internalID: 5429788042975328094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_104
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6a81a332a2d9e20800000000000000
+      internalID: 3358887227875174048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_105
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a786d78758f4170e0800000000000000
+      internalID: -2273948902174660486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_106
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822dbe4d37e24d3f0800000000000000
+      internalID: -877024952402062808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_107
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8e9531a6c56b070800000000000000
+      internalID: 8121780588670216438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_108
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4ef6e58ff8f6850800000000000000
+      internalID: 6372470294651593980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_109
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acc026e9aa47c5d0800000000000000
+      internalID: -3042380929694643037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_110
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90709d272db17f70800000000000000
+      internalID: 9183329091150966943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Glacier_111
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d71a64e00ce2cee0800000000000000
+      internalID: -1242171058624522288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Polar_Ocean_Glacier_0: -4214583757898097404
+      Polar_Ocean_Glacier_1: -1346872753593035205
+      Polar_Ocean_Glacier_10: -7963226228253394959
+      Polar_Ocean_Glacier_100: -713837526241986666
+      Polar_Ocean_Glacier_101: -8619726152171506157
+      Polar_Ocean_Glacier_102: -4782317591899611639
+      Polar_Ocean_Glacier_103: 5429788042975328094
+      Polar_Ocean_Glacier_104: 3358887227875174048
+      Polar_Ocean_Glacier_105: -2273948902174660486
+      Polar_Ocean_Glacier_106: -877024952402062808
+      Polar_Ocean_Glacier_107: 8121780588670216438
+      Polar_Ocean_Glacier_108: 6372470294651593980
+      Polar_Ocean_Glacier_109: -3042380929694643037
+      Polar_Ocean_Glacier_11: 3487724934507552809
+      Polar_Ocean_Glacier_110: 9183329091150966943
+      Polar_Ocean_Glacier_111: -1242171058624522288
+      Polar_Ocean_Glacier_12: 2636300887152533215
+      Polar_Ocean_Glacier_13: 366713034374215950
+      Polar_Ocean_Glacier_14: 8950671543868256366
+      Polar_Ocean_Glacier_15: 5336897539025092438
+      Polar_Ocean_Glacier_16: -436885221749769525
+      Polar_Ocean_Glacier_17: -1677471537641037415
+      Polar_Ocean_Glacier_18: 3085822950526159183
+      Polar_Ocean_Glacier_19: -1805411415218271063
+      Polar_Ocean_Glacier_2: 8551685549679835146
+      Polar_Ocean_Glacier_20: 3523675054515718016
+      Polar_Ocean_Glacier_21: -3184944038046005206
+      Polar_Ocean_Glacier_22: -3562340476036706800
+      Polar_Ocean_Glacier_23: -4135388274126798015
+      Polar_Ocean_Glacier_24: -8746456774419328076
+      Polar_Ocean_Glacier_25: -2920953669103589042
+      Polar_Ocean_Glacier_26: 2782569972096974324
+      Polar_Ocean_Glacier_27: 3822722116527427602
+      Polar_Ocean_Glacier_28: -6556897058954607367
+      Polar_Ocean_Glacier_29: -5369766226589942604
+      Polar_Ocean_Glacier_3: 5734583885330066310
+      Polar_Ocean_Glacier_30: -5085835396283794720
+      Polar_Ocean_Glacier_31: -4166008533587841798
+      Polar_Ocean_Glacier_32: -9036040606315999042
+      Polar_Ocean_Glacier_33: -5945918857526855484
+      Polar_Ocean_Glacier_34: 370292460980638722
+      Polar_Ocean_Glacier_35: 8543649593720836609
+      Polar_Ocean_Glacier_36: -3211390720159201858
+      Polar_Ocean_Glacier_37: 3857549408310109722
+      Polar_Ocean_Glacier_38: -677427641714498005
+      Polar_Ocean_Glacier_39: 384652612960327312
+      Polar_Ocean_Glacier_4: -7851613048053670276
+      Polar_Ocean_Glacier_40: -2474896557329640181
+      Polar_Ocean_Glacier_41: 6345782825361993809
+      Polar_Ocean_Glacier_42: 4220425109187496930
+      Polar_Ocean_Glacier_43: -8844813214369376821
+      Polar_Ocean_Glacier_44: -735424864468084568
+      Polar_Ocean_Glacier_45: -1110440493051285962
+      Polar_Ocean_Glacier_46: 3478734250469979136
+      Polar_Ocean_Glacier_47: 6561281724925210674
+      Polar_Ocean_Glacier_48: -7150000534875992012
+      Polar_Ocean_Glacier_49: -2093068774467799055
+      Polar_Ocean_Glacier_5: 186937341009641921
+      Polar_Ocean_Glacier_50: 2951811963274586477
+      Polar_Ocean_Glacier_51: 6706853299219894407
+      Polar_Ocean_Glacier_52: 549448613423122206
+      Polar_Ocean_Glacier_53: 4400168670871978772
+      Polar_Ocean_Glacier_54: -2827514322899064553
+      Polar_Ocean_Glacier_55: -6838181848261707642
+      Polar_Ocean_Glacier_56: -3965205552147004981
+      Polar_Ocean_Glacier_57: 9140927224157802099
+      Polar_Ocean_Glacier_58: 1044558948873944309
+      Polar_Ocean_Glacier_59: 2024624152808582229
+      Polar_Ocean_Glacier_6: -8080642409763033689
+      Polar_Ocean_Glacier_60: 7705751850590935265
+      Polar_Ocean_Glacier_61: -109173201514168138
+      Polar_Ocean_Glacier_62: 4749125377737088669
+      Polar_Ocean_Glacier_63: 8089169217208468668
+      Polar_Ocean_Glacier_64: 881417641547048328
+      Polar_Ocean_Glacier_65: 1364140150797241214
+      Polar_Ocean_Glacier_66: 5372767151373541216
+      Polar_Ocean_Glacier_67: -6201220825587812554
+      Polar_Ocean_Glacier_68: 5556989882815560919
+      Polar_Ocean_Glacier_69: 8106157376832959652
+      Polar_Ocean_Glacier_7: -4264023346488977944
+      Polar_Ocean_Glacier_70: 1707069323385236282
+      Polar_Ocean_Glacier_71: -372656407587479940
+      Polar_Ocean_Glacier_72: -1389234171707370477
+      Polar_Ocean_Glacier_73: -224976788018839829
+      Polar_Ocean_Glacier_74: 5547906114381937436
+      Polar_Ocean_Glacier_75: 8825842434782440693
+      Polar_Ocean_Glacier_76: -8138572168885528388
+      Polar_Ocean_Glacier_77: -3693927288551654332
+      Polar_Ocean_Glacier_78: -3233059914501261485
+      Polar_Ocean_Glacier_79: 560785081525144807
+      Polar_Ocean_Glacier_8: 3453459855572063365
+      Polar_Ocean_Glacier_80: 3929379593324083252
+      Polar_Ocean_Glacier_81: 6425768109298696271
+      Polar_Ocean_Glacier_82: -7046721580965231325
+      Polar_Ocean_Glacier_83: 8565763254377056651
+      Polar_Ocean_Glacier_84: -2231260045119059514
+      Polar_Ocean_Glacier_85: 9008845882083644177
+      Polar_Ocean_Glacier_86: -2678322328119792657
+      Polar_Ocean_Glacier_87: 8176180121291601485
+      Polar_Ocean_Glacier_88: -5459032477109185692
+      Polar_Ocean_Glacier_89: 8396853083497808337
+      Polar_Ocean_Glacier_9: 5267634571208523951
+      Polar_Ocean_Glacier_90: 2585545415717643464
+      Polar_Ocean_Glacier_91: 7774847397662546001
+      Polar_Ocean_Glacier_92: -6012531462975157254
+      Polar_Ocean_Glacier_93: 4361841158981439956
+      Polar_Ocean_Glacier_94: -1707826311121199349
+      Polar_Ocean_Glacier_95: -2044912598534322740
+      Polar_Ocean_Glacier_96: -5195920611840443722
+      Polar_Ocean_Glacier_97: 7032548047881217716
+      Polar_Ocean_Glacier_98: -7476624608298261342
+      Polar_Ocean_Glacier_99: 2974883727613005044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

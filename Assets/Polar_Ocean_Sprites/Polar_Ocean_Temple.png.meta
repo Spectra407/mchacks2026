@@ -1,0 +1,2067 @@
+fileFormatVersion: 2
+guid: c843b77a3e3ab73a1b742ff4f8f5a76d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6439738699796928725
+    second: Polar_Ocean_Temple_0
+  - first:
+      213: 9216017872632073077
+    second: Polar_Ocean_Temple_1
+  - first:
+      213: 2879837334429534638
+    second: Polar_Ocean_Temple_2
+  - first:
+      213: 1008476817659323018
+    second: Polar_Ocean_Temple_3
+  - first:
+      213: 2740346083820243916
+    second: Polar_Ocean_Temple_4
+  - first:
+      213: -1170832347681883091
+    second: Polar_Ocean_Temple_5
+  - first:
+      213: -2824806076072883572
+    second: Polar_Ocean_Temple_6
+  - first:
+      213: 7212062420835643857
+    second: Polar_Ocean_Temple_7
+  - first:
+      213: 5604558867683585904
+    second: Polar_Ocean_Temple_8
+  - first:
+      213: 7157853357446948571
+    second: Polar_Ocean_Temple_9
+  - first:
+      213: 7098522117544892531
+    second: Polar_Ocean_Temple_10
+  - first:
+      213: 5032813335254197406
+    second: Polar_Ocean_Temple_11
+  - first:
+      213: 8884469011797113885
+    second: Polar_Ocean_Temple_12
+  - first:
+      213: -3582723808553758987
+    second: Polar_Ocean_Temple_13
+  - first:
+      213: 5985305255708374752
+    second: Polar_Ocean_Temple_14
+  - first:
+      213: -7089381332334786313
+    second: Polar_Ocean_Temple_15
+  - first:
+      213: 6760089787380280121
+    second: Polar_Ocean_Temple_16
+  - first:
+      213: -2229256825713868478
+    second: Polar_Ocean_Temple_17
+  - first:
+      213: -2407018358034092478
+    second: Polar_Ocean_Temple_18
+  - first:
+      213: 8072072668757652340
+    second: Polar_Ocean_Temple_19
+  - first:
+      213: -6319207165331263530
+    second: Polar_Ocean_Temple_20
+  - first:
+      213: 3244188681371691820
+    second: Polar_Ocean_Temple_21
+  - first:
+      213: -2842483229107322910
+    second: Polar_Ocean_Temple_22
+  - first:
+      213: 6769242237000792512
+    second: Polar_Ocean_Temple_23
+  - first:
+      213: 4602131706656475080
+    second: Polar_Ocean_Temple_24
+  - first:
+      213: -8247330150613560613
+    second: Polar_Ocean_Temple_25
+  - first:
+      213: 4053118709329663158
+    second: Polar_Ocean_Temple_26
+  - first:
+      213: -2993203420504198414
+    second: Polar_Ocean_Temple_27
+  - first:
+      213: 2260530429740174882
+    second: Polar_Ocean_Temple_28
+  - first:
+      213: -8512753961338581146
+    second: Polar_Ocean_Temple_29
+  - first:
+      213: -6805322865652801721
+    second: Polar_Ocean_Temple_30
+  - first:
+      213: -5728301003725160264
+    second: Polar_Ocean_Temple_31
+  - first:
+      213: 3133715210763300784
+    second: Polar_Ocean_Temple_32
+  - first:
+      213: 5845791072671933727
+    second: Polar_Ocean_Temple_33
+  - first:
+      213: 1956013960917811930
+    second: Polar_Ocean_Temple_34
+  - first:
+      213: 2800460732173180393
+    second: Polar_Ocean_Temple_35
+  - first:
+      213: -1742052872826934492
+    second: Polar_Ocean_Temple_36
+  - first:
+      213: 2636146799098651973
+    second: Polar_Ocean_Temple_37
+  - first:
+      213: -1664459293746858097
+    second: Polar_Ocean_Temple_38
+  - first:
+      213: 646891696293886869
+    second: Polar_Ocean_Temple_39
+  - first:
+      213: -657451751404232779
+    second: Polar_Ocean_Temple_40
+  - first:
+      213: 6487107160139715600
+    second: Polar_Ocean_Temple_41
+  - first:
+      213: 2555081274776779435
+    second: Polar_Ocean_Temple_42
+  - first:
+      213: 4354296388028542935
+    second: Polar_Ocean_Temple_43
+  - first:
+      213: 2203864830562510148
+    second: Polar_Ocean_Temple_44
+  - first:
+      213: 2738473944926016100
+    second: Polar_Ocean_Temple_45
+  - first:
+      213: -6721657788841353654
+    second: Polar_Ocean_Temple_46
+  - first:
+      213: 5814013465932487083
+    second: Polar_Ocean_Temple_47
+  - first:
+      213: 2785883621409861800
+    second: Polar_Ocean_Temple_48
+  - first:
+      213: 2319328930472058915
+    second: Polar_Ocean_Temple_49
+  - first:
+      213: -3347480343097107619
+    second: Polar_Ocean_Temple_50
+  - first:
+      213: 5682638933277918189
+    second: Polar_Ocean_Temple_51
+  - first:
+      213: -5628259994021840114
+    second: Polar_Ocean_Temple_52
+  - first:
+      213: -3707632843044477938
+    second: Polar_Ocean_Temple_53
+  - first:
+      213: 2453820953334385125
+    second: Polar_Ocean_Temple_54
+  - first:
+      213: -8160473637075624981
+    second: Polar_Ocean_Temple_55
+  - first:
+      213: 6332869782292941920
+    second: Polar_Ocean_Temple_56
+  - first:
+      213: 3241841122788914439
+    second: Polar_Ocean_Temple_57
+  - first:
+      213: 172931379149710571
+    second: Polar_Ocean_Temple_58
+  - first:
+      213: 1352713669996004592
+    second: Polar_Ocean_Temple_59
+  - first:
+      213: 8817631012592189666
+    second: Polar_Ocean_Temple_60
+  - first:
+      213: 8150328622092798668
+    second: Polar_Ocean_Temple_61
+  - first:
+      213: -1645603506840049928
+    second: Polar_Ocean_Temple_62
+  - first:
+      213: 3599421073003060092
+    second: Polar_Ocean_Temple_63
+  - first:
+      213: -2038866045339702712
+    second: Polar_Ocean_Temple_64
+  - first:
+      213: 7193255211723330764
+    second: Polar_Ocean_Temple_65
+  - first:
+      213: 175577540226066892
+    second: Polar_Ocean_Temple_66
+  - first:
+      213: 986323394562599991
+    second: Polar_Ocean_Temple_67
+  - first:
+      213: -6431888815067563451
+    second: Polar_Ocean_Temple_68
+  - first:
+      213: -989885081273376272
+    second: Polar_Ocean_Temple_69
+  - first:
+      213: -3929190463987436243
+    second: Polar_Ocean_Temple_70
+  - first:
+      213: -3972626769990491344
+    second: Polar_Ocean_Temple_71
+  - first:
+      213: 133507160591055855
+    second: Polar_Ocean_Temple_72
+  - first:
+      213: -1083214004069301055
+    second: Polar_Ocean_Temple_73
+  - first:
+      213: -765975032990916936
+    second: Polar_Ocean_Temple_74
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27a44095c371a6a0800000000000000
+      internalID: -6439738699796928725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bc2e53d6fd5ef70800000000000000
+      internalID: 9216017872632073077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea984913ccc37f720800000000000000
+      internalID: 2879837334429534638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82ecc09254defd00800000000000000
+      internalID: 1008476817659323018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb0db78e3aa70620800000000000000
+      internalID: 2740346083820243916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2c72e0ee2e50cfe0800000000000000
+      internalID: -1170832347681883091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a8f4c17d54cc8d0800000000000000
+      internalID: -2824806076072883572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d13ad38f84661460800000000000000
+      internalID: 7212062420835643857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07fab0f889467cd40800000000000000
+      internalID: 5604558867683585904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd666f464bdc55360800000000000000
+      internalID: 7157853357446948571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378548e9144038260800000000000000
+      internalID: 7098522117544892531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94ecac301528d540800000000000000
+      internalID: 5032813335254197406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cf12a8e79fb4b70800000000000000
+      internalID: 8884469011797113885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fe81de9dab974ec0800000000000000
+      internalID: -3582723808553758987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e6b6c62b63101350800000000000000
+      internalID: 5985305255708374752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f846e84d357d9d90800000000000000
+      internalID: -7089381332334786313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93b2c8a58d9a0dd50800000000000000
+      internalID: 6760089787380280121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_17
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241c5366ab61011e0800000000000000
+      internalID: -2229256825713868478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ea8896e8d889ed0800000000000000
+      internalID: -2407018358034092478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_19
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47370761353c50070800000000000000
+      internalID: 8072072668757652340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dfa350509aad48a0800000000000000
+      internalID: -6319207165331263530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_21
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ba081da6ca50d20800000000000000
+      internalID: 3244188681371691820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_22
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef7d0130987d88d0800000000000000
+      internalID: -2842483229107322910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_23
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 37
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9b00713fd21fd50800000000000000
+      internalID: 6769242237000792512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_24
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 45
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c742d0776e0edf30800000000000000
+      internalID: 4602131706656475080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 36
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd25f4b9ce89b8d80800000000000000
+      internalID: -8247330150613560613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b49516edf19f3830800000000000000
+      internalID: 4053118709329663158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2fc5409510676d0800000000000000
+      internalID: -2993203420504198414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_28
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22ecf94f2740f5f10800000000000000
+      internalID: 2260530429740174882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_29
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f4d1aef5f9cd980800000000000000
+      internalID: -8512753961338581146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_30
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fdbeae8e2ae81a0800000000000000
+      internalID: -6805322865652801721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_31
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0c272469cf080b0800000000000000
+      internalID: -5728301003725160264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_32
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bfe8cc81613d7b20800000000000000
+      internalID: 3133715210763300784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_33
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15a2cd120c602150800000000000000
+      internalID: 5845791072671933727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_34
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad206348558252b10800000000000000
+      internalID: 1956013960917811930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_35
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eddc9cc23c3dd620800000000000000
+      internalID: 2800460732173180393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_36
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ba337542cf2d7e0800000000000000
+      internalID: -1742052872826934492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_37
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545ee000c89759420800000000000000
+      internalID: 2636146799098651973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_38
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87fe1d4717a6e8e0800000000000000
+      internalID: -1664459293746858097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b3fb502983af800800000000000000
+      internalID: 646891696293886869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_40
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf979c8d1340e6f0800000000000000
+      internalID: -657451751404232779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_41
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014550c8795d60a50800000000000000
+      internalID: 6487107160139715600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_42
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa725bc1e8757320800000000000000
+      internalID: 2555081274776779435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_43
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7df253fae719d6c30800000000000000
+      internalID: 4354296388028542935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_44
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445a7a60363b59e10800000000000000
+      internalID: 2203864830562510148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4625af93b83010620800000000000000
+      internalID: 2738473944926016100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_46
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4e9f5a9adfd7b2a0800000000000000
+      internalID: -6721657788841353654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_47
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 19
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba95e3c71768fa050800000000000000
+      internalID: 5814013465932487083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_48
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0b6b7b46279a620800000000000000
+      internalID: 2785883621409861800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_49
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 28
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320e21abf59ef2020800000000000000
+      internalID: 2319328930472058915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_50
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b18191d5c5b81d0800000000000000
+      internalID: -3347480343097107619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3c5dc700accde40800000000000000
+      internalID: 5682638933277918189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b39c0fa5764e1b0800000000000000
+      internalID: -5628259994021840114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_53
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0423c8b297db8cc0800000000000000
+      internalID: -3707632843044477938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e908e9f729bd0220800000000000000
+      internalID: 2453820953334385125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_55
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bebda2f867c20ce80800000000000000
+      internalID: -8160473637075624981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_56
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c4066938fd2e750800000000000000
+      internalID: 6332869782292941920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_57
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 705361e33555dfc20800000000000000
+      internalID: 3241841122788914439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_58
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4acb05c20666200800000000000000
+      internalID: 172931379149710571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_59
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f44de67aedc5c210800000000000000
+      internalID: 1352713669996004592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_60
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0860a20b48e5a70800000000000000
+      internalID: 8817631012592189666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_61
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca4a8213b8cb1170800000000000000
+      internalID: 8150328622092798668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_62
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f669ad4454a929e0800000000000000
+      internalID: -1645603506840049928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_63
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b17653566b3f130800000000000000
+      internalID: 3599421073003060092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_64
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84aebe6522e74b3e0800000000000000
+      internalID: -2038866045339702712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_65
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc41f79e08393d360800000000000000
+      internalID: 7193255211723330764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_66
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc926b3b7d6cf6200800000000000000
+      internalID: 175577540226066892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_67
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73caf8ec6ef10bd00800000000000000
+      internalID: 986323394562599991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_68
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54af61743375db6a0800000000000000
+      internalID: -6431888815067563451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_69
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f1ed3263c83342f0800000000000000
+      internalID: -989885081273376272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_70
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d253d2b3716b879c0800000000000000
+      internalID: -3929190463987436243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_71
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033628520056ed8c0800000000000000
+      internalID: -3972626769990491344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_72
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb30022e005ad100800000000000000
+      internalID: 133507160591055855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_73
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c488b73a96a7f0f0800000000000000
+      internalID: -1083214004069301055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_74
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be12cb04c5be55f0800000000000000
+      internalID: -765975032990916936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Polar_Ocean_Temple_0: -6439738699796928725
+      Polar_Ocean_Temple_1: 9216017872632073077
+      Polar_Ocean_Temple_10: 7098522117544892531
+      Polar_Ocean_Temple_11: 5032813335254197406
+      Polar_Ocean_Temple_12: 8884469011797113885
+      Polar_Ocean_Temple_13: -3582723808553758987
+      Polar_Ocean_Temple_14: 5985305255708374752
+      Polar_Ocean_Temple_15: -7089381332334786313
+      Polar_Ocean_Temple_16: 6760089787380280121
+      Polar_Ocean_Temple_17: -2229256825713868478
+      Polar_Ocean_Temple_18: -2407018358034092478
+      Polar_Ocean_Temple_19: 8072072668757652340
+      Polar_Ocean_Temple_2: 2879837334429534638
+      Polar_Ocean_Temple_20: -6319207165331263530
+      Polar_Ocean_Temple_21: 3244188681371691820
+      Polar_Ocean_Temple_22: -2842483229107322910
+      Polar_Ocean_Temple_23: 6769242237000792512
+      Polar_Ocean_Temple_24: 4602131706656475080
+      Polar_Ocean_Temple_25: -8247330150613560613
+      Polar_Ocean_Temple_26: 4053118709329663158
+      Polar_Ocean_Temple_27: -2993203420504198414
+      Polar_Ocean_Temple_28: 2260530429740174882
+      Polar_Ocean_Temple_29: -8512753961338581146
+      Polar_Ocean_Temple_3: 1008476817659323018
+      Polar_Ocean_Temple_30: -6805322865652801721
+      Polar_Ocean_Temple_31: -5728301003725160264
+      Polar_Ocean_Temple_32: 3133715210763300784
+      Polar_Ocean_Temple_33: 5845791072671933727
+      Polar_Ocean_Temple_34: 1956013960917811930
+      Polar_Ocean_Temple_35: 2800460732173180393
+      Polar_Ocean_Temple_36: -1742052872826934492
+      Polar_Ocean_Temple_37: 2636146799098651973
+      Polar_Ocean_Temple_38: -1664459293746858097
+      Polar_Ocean_Temple_39: 646891696293886869
+      Polar_Ocean_Temple_4: 2740346083820243916
+      Polar_Ocean_Temple_40: -657451751404232779
+      Polar_Ocean_Temple_41: 6487107160139715600
+      Polar_Ocean_Temple_42: 2555081274776779435
+      Polar_Ocean_Temple_43: 4354296388028542935
+      Polar_Ocean_Temple_44: 2203864830562510148
+      Polar_Ocean_Temple_45: 2738473944926016100
+      Polar_Ocean_Temple_46: -6721657788841353654
+      Polar_Ocean_Temple_47: 5814013465932487083
+      Polar_Ocean_Temple_48: 2785883621409861800
+      Polar_Ocean_Temple_49: 2319328930472058915
+      Polar_Ocean_Temple_5: -1170832347681883091
+      Polar_Ocean_Temple_50: -3347480343097107619
+      Polar_Ocean_Temple_51: 5682638933277918189
+      Polar_Ocean_Temple_52: -5628259994021840114
+      Polar_Ocean_Temple_53: -3707632843044477938
+      Polar_Ocean_Temple_54: 2453820953334385125
+      Polar_Ocean_Temple_55: -8160473637075624981
+      Polar_Ocean_Temple_56: 6332869782292941920
+      Polar_Ocean_Temple_57: 3241841122788914439
+      Polar_Ocean_Temple_58: 172931379149710571
+      Polar_Ocean_Temple_59: 1352713669996004592
+      Polar_Ocean_Temple_6: -2824806076072883572
+      Polar_Ocean_Temple_60: 8817631012592189666
+      Polar_Ocean_Temple_61: 8150328622092798668
+      Polar_Ocean_Temple_62: -1645603506840049928
+      Polar_Ocean_Temple_63: 3599421073003060092
+      Polar_Ocean_Temple_64: -2038866045339702712
+      Polar_Ocean_Temple_65: 7193255211723330764
+      Polar_Ocean_Temple_66: 175577540226066892
+      Polar_Ocean_Temple_67: 986323394562599991
+      Polar_Ocean_Temple_68: -6431888815067563451
+      Polar_Ocean_Temple_69: -989885081273376272
+      Polar_Ocean_Temple_7: 7212062420835643857
+      Polar_Ocean_Temple_70: -3929190463987436243
+      Polar_Ocean_Temple_71: -3972626769990491344
+      Polar_Ocean_Temple_72: 133507160591055855
+      Polar_Ocean_Temple_73: -1083214004069301055
+      Polar_Ocean_Temple_74: -765975032990916936
+      Polar_Ocean_Temple_8: 5604558867683585904
+      Polar_Ocean_Temple_9: 7157853357446948571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

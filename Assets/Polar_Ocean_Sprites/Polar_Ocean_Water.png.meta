@@ -1,0 +1,1755 @@
+fileFormatVersion: 2
+guid: 39c1a8975a823b7aa98f004213c8626b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2727136467803142234
+    second: Polar_Ocean_Water_0
+  - first:
+      213: 8483268528229467900
+    second: Polar_Ocean_Water_1
+  - first:
+      213: 6587446987611126769
+    second: Polar_Ocean_Water_2
+  - first:
+      213: 3803873547983196211
+    second: Polar_Ocean_Water_3
+  - first:
+      213: -8005583110173556190
+    second: Polar_Ocean_Water_4
+  - first:
+      213: -6112696776188643862
+    second: Polar_Ocean_Water_5
+  - first:
+      213: -4571062054110448850
+    second: Polar_Ocean_Water_6
+  - first:
+      213: 4330574248680331973
+    second: Polar_Ocean_Water_7
+  - first:
+      213: -4091547054764822284
+    second: Polar_Ocean_Water_8
+  - first:
+      213: 3984044456389985300
+    second: Polar_Ocean_Water_9
+  - first:
+      213: -4928302151532026932
+    second: Polar_Ocean_Water_10
+  - first:
+      213: 3423366525816465713
+    second: Polar_Ocean_Water_11
+  - first:
+      213: -1794179821101413822
+    second: Polar_Ocean_Water_12
+  - first:
+      213: -3646039798189752645
+    second: Polar_Ocean_Water_13
+  - first:
+      213: 5377089198302895303
+    second: Polar_Ocean_Water_14
+  - first:
+      213: 9133952218498533042
+    second: Polar_Ocean_Water_15
+  - first:
+      213: 2113226214302701996
+    second: Polar_Ocean_Water_16
+  - first:
+      213: 2304310315559307282
+    second: Polar_Ocean_Water_17
+  - first:
+      213: 2890888022272151516
+    second: Polar_Ocean_Water_18
+  - first:
+      213: -8682739221388837117
+    second: Polar_Ocean_Water_19
+  - first:
+      213: 2268329739226770399
+    second: Polar_Ocean_Water_20
+  - first:
+      213: 6538444135554631448
+    second: Polar_Ocean_Water_21
+  - first:
+      213: -2430021609667591379
+    second: Polar_Ocean_Water_22
+  - first:
+      213: -6615304291737142456
+    second: Polar_Ocean_Water_23
+  - first:
+      213: 3499235770818515479
+    second: Polar_Ocean_Water_24
+  - first:
+      213: -1000201611894222088
+    second: Polar_Ocean_Water_25
+  - first:
+      213: -8337861230539448632
+    second: Polar_Ocean_Water_26
+  - first:
+      213: 7276793763478825003
+    second: Polar_Ocean_Water_27
+  - first:
+      213: -4233110355765061310
+    second: Polar_Ocean_Water_28
+  - first:
+      213: 360698946573501804
+    second: Polar_Ocean_Water_29
+  - first:
+      213: 1487166584119724388
+    second: Polar_Ocean_Water_30
+  - first:
+      213: -6542869370147828908
+    second: Polar_Ocean_Water_31
+  - first:
+      213: -415570347390702697
+    second: Polar_Ocean_Water_32
+  - first:
+      213: -972443618995769980
+    second: Polar_Ocean_Water_33
+  - first:
+      213: -7598840045336690761
+    second: Polar_Ocean_Water_34
+  - first:
+      213: 4825728975829007823
+    second: Polar_Ocean_Water_35
+  - first:
+      213: 7807296284583035489
+    second: Polar_Ocean_Water_36
+  - first:
+      213: 4256579121291067902
+    second: Polar_Ocean_Water_37
+  - first:
+      213: -4131442548203004496
+    second: Polar_Ocean_Water_38
+  - first:
+      213: -8814399254545222366
+    second: Polar_Ocean_Water_39
+  - first:
+      213: 7045438782973076811
+    second: Polar_Ocean_Water_40
+  - first:
+      213: -6254125370953338264
+    second: Polar_Ocean_Water_41
+  - first:
+      213: 7135358353374267589
+    second: Polar_Ocean_Water_42
+  - first:
+      213: 5736922749136380138
+    second: Polar_Ocean_Water_43
+  - first:
+      213: 3946835598329499610
+    second: Polar_Ocean_Water_44
+  - first:
+      213: -8363894788674851190
+    second: Polar_Ocean_Water_45
+  - first:
+      213: 8446089410720419587
+    second: Polar_Ocean_Water_46
+  - first:
+      213: 1355079930689142573
+    second: Polar_Ocean_Water_47
+  - first:
+      213: -5276085470934722881
+    second: Polar_Ocean_Water_48
+  - first:
+      213: 68006394624396213
+    second: Polar_Ocean_Water_49
+  - first:
+      213: 5301821679020459299
+    second: Polar_Ocean_Water_50
+  - first:
+      213: 8368533403726567146
+    second: Polar_Ocean_Water_51
+  - first:
+      213: -8124953261369362676
+    second: Polar_Ocean_Water_52
+  - first:
+      213: -2493721455004937689
+    second: Polar_Ocean_Water_53
+  - first:
+      213: -6998478041280330989
+    second: Polar_Ocean_Water_54
+  - first:
+      213: 4764761104907095642
+    second: Polar_Ocean_Water_55
+  - first:
+      213: -442839961713051884
+    second: Polar_Ocean_Water_56
+  - first:
+      213: -4011491557441775151
+    second: Polar_Ocean_Water_57
+  - first:
+      213: 3462754360917284573
+    second: Polar_Ocean_Water_58
+  - first:
+      213: 3261365694382732373
+    second: Polar_Ocean_Water_59
+  - first:
+      213: -2263055622434557625
+    second: Polar_Ocean_Water_60
+  - first:
+      213: -2624833524686223408
+    second: Polar_Ocean_Water_61
+  - first:
+      213: -1267342122973590846
+    second: Polar_Ocean_Water_62
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a7849ed4d3472ad0800000000000000
+      internalID: -2727136467803142234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf64e57b7cf9ab570800000000000000
+      internalID: 8483268528229467900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_2
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fb374922205b6b50800000000000000
+      internalID: 6587446987611126769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3301b0e86d21ac430800000000000000
+      internalID: 3803873547983196211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220d32a39476e090800000000000000
+      internalID: -8005583110173556190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_5
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5b9932ba65b2ba0800000000000000
+      internalID: -6112696776188643862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_6
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e23ba72c7435090c0800000000000000
+      internalID: -4571062054110448850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_7
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ca9b06b55a491c30800000000000000
+      internalID: 4330574248680331973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_8
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f072f2b1a7e737c0800000000000000
+      internalID: -4091547054764822284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4144d70235b2a4730800000000000000
+      internalID: 3984044456389985300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_10
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc3e320fd472b9bb0800000000000000
+      internalID: -4928302151532026932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_11
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 139e04ba7bd328f20800000000000000
+      internalID: 3423366525816465713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_12
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a831c65fac917e0800000000000000
+      internalID: -1794179821101413822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_13
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe76fffe1aa66dc0800000000000000
+      internalID: -3646039798189752645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_14
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cc1f6603224f9a40800000000000000
+      internalID: 5377089198302895303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_15
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b60ff2262152ce70800000000000000
+      internalID: 9133952218498533042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_16
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca95e89ab00b35d10800000000000000
+      internalID: 2113226214302701996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_17
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2184e23f50e8aff10800000000000000
+      internalID: 2304310315559307282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_18
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf86f4f65f7e1820800000000000000
+      internalID: 2890888022272151516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_19
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f34c76ea6b08780800000000000000
+      internalID: -8682739221388837117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_20
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbe01431e9ba7f10800000000000000
+      internalID: 2268329739226770399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_21
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81748739c483dba50800000000000000
+      internalID: 6538444135554631448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_22
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d238d378834d64ed0800000000000000
+      internalID: -2430021609667591379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_23
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 18
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84bf3e9cbc7b134a0800000000000000
+      internalID: -6615304291737142456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_24
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7125af0d468cf8030800000000000000
+      internalID: 3499235770818515479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2954beee19e12f0800000000000000
+      internalID: -1000201611894222088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_26
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ced13ff267f94c80800000000000000
+      internalID: -8337861230539448632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_27
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28eeefaf5d5cf460800000000000000
+      internalID: 7276793763478825003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24998953f88f045c0800000000000000
+      internalID: -4233110355765061310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_29
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c650f55e7c5710500800000000000000
+      internalID: 360698946573501804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_30
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 27
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4698940012a73a410800000000000000
+      internalID: 1487166584119724388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_31
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 10
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45b0e8439fe0335a0800000000000000
+      internalID: -6542869370147828908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_32
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 11
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b679888f89b3af0800000000000000
+      internalID: -415570347390702697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_33
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 11
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d69a54eaf2182f0800000000000000
+      internalID: -972443618995769980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_34
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 11
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf71b83d3f7b8690800000000000000
+      internalID: -7598840045336690761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_35
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 11
+        width: 10
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdf89a8fee68f240800000000000000
+      internalID: 4825728975829007823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1628cc22b96195c60800000000000000
+      internalID: 7807296284583035489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef106e29828621b30800000000000000
+      internalID: 4256579121291067902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_38
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bddc6844ea2aa6c0800000000000000
+      internalID: -4131442548203004496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_39
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2253d542496fca580800000000000000
+      internalID: -8814399254545222366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_40
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45eed9ae3d66c160800000000000000
+      internalID: 7045438782973076811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_41
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86271936c12e439a0800000000000000
+      internalID: -6254125370953338264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_42
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c84dfd1e92e50360800000000000000
+      internalID: 7135358353374267589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_43
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae0a12648d4ad9f40800000000000000
+      internalID: 5736922749136380138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_44
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adfcb41c01af5c630800000000000000
+      internalID: 3946835598329499610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_45
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e6b46e00a7deb80800000000000000
+      internalID: -8363894788674851190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_46
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30fcd2bd199863570800000000000000
+      internalID: 8446089410720419587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_47
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fbcf674063ec210800000000000000
+      internalID: 1355079930689142573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_48
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb61654d73497c6b0800000000000000
+      internalID: -5276085470934722881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_49
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbca02a47b91f000800000000000000
+      internalID: 68006394624396213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_50
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325ca701abad39940800000000000000
+      internalID: 5301821679020459299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_51
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6dc14dac0032470800000000000000
+      internalID: 8368533403726567146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_52
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c077d6f7e0e5e3f80800000000000000
+      internalID: -8124953261369362676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_53
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72219a98c85846dd0800000000000000
+      internalID: -2493721455004937689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_54
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3134d1d0d4960ee90800000000000000
+      internalID: -6998478041280330989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_55
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5ec599eaf4df1240800000000000000
+      internalID: 4764761104907095642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_56
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417febda667bad9f0800000000000000
+      internalID: -442839961713051884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_57
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9543baea15458c0800000000000000
+      internalID: -4011491557441775151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_58
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 9
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6d8eaaebc2e0030800000000000000
+      internalID: 3462754360917284573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_59
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554f350d1d2b24d20800000000000000
+      internalID: 3261365694382732373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74176ddc6e20890e0800000000000000
+      internalID: -2263055622434557625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_61
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d78a86f0d7b29bd0800000000000000
+      internalID: -2624833524686223408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Water_62
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca0547cd0f796ee0800000000000000
+      internalID: -1267342122973590846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Polar_Ocean_Water_0: -2727136467803142234
+      Polar_Ocean_Water_1: 8483268528229467900
+      Polar_Ocean_Water_10: -4928302151532026932
+      Polar_Ocean_Water_11: 3423366525816465713
+      Polar_Ocean_Water_12: -1794179821101413822
+      Polar_Ocean_Water_13: -3646039798189752645
+      Polar_Ocean_Water_14: 5377089198302895303
+      Polar_Ocean_Water_15: 9133952218498533042
+      Polar_Ocean_Water_16: 2113226214302701996
+      Polar_Ocean_Water_17: 2304310315559307282
+      Polar_Ocean_Water_18: 2890888022272151516
+      Polar_Ocean_Water_19: -8682739221388837117
+      Polar_Ocean_Water_2: 6587446987611126769
+      Polar_Ocean_Water_20: 2268329739226770399
+      Polar_Ocean_Water_21: 6538444135554631448
+      Polar_Ocean_Water_22: -2430021609667591379
+      Polar_Ocean_Water_23: -6615304291737142456
+      Polar_Ocean_Water_24: 3499235770818515479
+      Polar_Ocean_Water_25: -1000201611894222088
+      Polar_Ocean_Water_26: -8337861230539448632
+      Polar_Ocean_Water_27: 7276793763478825003
+      Polar_Ocean_Water_28: -4233110355765061310
+      Polar_Ocean_Water_29: 360698946573501804
+      Polar_Ocean_Water_3: 3803873547983196211
+      Polar_Ocean_Water_30: 1487166584119724388
+      Polar_Ocean_Water_31: -6542869370147828908
+      Polar_Ocean_Water_32: -415570347390702697
+      Polar_Ocean_Water_33: -972443618995769980
+      Polar_Ocean_Water_34: -7598840045336690761
+      Polar_Ocean_Water_35: 4825728975829007823
+      Polar_Ocean_Water_36: 7807296284583035489
+      Polar_Ocean_Water_37: 4256579121291067902
+      Polar_Ocean_Water_38: -4131442548203004496
+      Polar_Ocean_Water_39: -8814399254545222366
+      Polar_Ocean_Water_4: -8005583110173556190
+      Polar_Ocean_Water_40: 7045438782973076811
+      Polar_Ocean_Water_41: -6254125370953338264
+      Polar_Ocean_Water_42: 7135358353374267589
+      Polar_Ocean_Water_43: 5736922749136380138
+      Polar_Ocean_Water_44: 3946835598329499610
+      Polar_Ocean_Water_45: -8363894788674851190
+      Polar_Ocean_Water_46: 8446089410720419587
+      Polar_Ocean_Water_47: 1355079930689142573
+      Polar_Ocean_Water_48: -5276085470934722881
+      Polar_Ocean_Water_49: 68006394624396213
+      Polar_Ocean_Water_5: -6112696776188643862
+      Polar_Ocean_Water_50: 5301821679020459299
+      Polar_Ocean_Water_51: 8368533403726567146
+      Polar_Ocean_Water_52: -8124953261369362676
+      Polar_Ocean_Water_53: -2493721455004937689
+      Polar_Ocean_Water_54: -6998478041280330989
+      Polar_Ocean_Water_55: 4764761104907095642
+      Polar_Ocean_Water_56: -442839961713051884
+      Polar_Ocean_Water_57: -4011491557441775151
+      Polar_Ocean_Water_58: 3462754360917284573
+      Polar_Ocean_Water_59: 3261365694382732373
+      Polar_Ocean_Water_6: -4571062054110448850
+      Polar_Ocean_Water_60: -2263055622434557625
+      Polar_Ocean_Water_61: -2624833524686223408
+      Polar_Ocean_Water_62: -1267342122973590846
+      Polar_Ocean_Water_7: 4330574248680331973
+      Polar_Ocean_Water_8: -4091547054764822284
+      Polar_Ocean_Water_9: 3984044456389985300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

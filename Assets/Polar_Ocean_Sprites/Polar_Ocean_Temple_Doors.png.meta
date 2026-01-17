@@ -1,0 +1,1079 @@
+fileFormatVersion: 2
+guid: 89ecbd8abd401c6ddbc11db0fecb35f0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6794267872914486324
+    second: Polar_Ocean_Temple_Doors_0
+  - first:
+      213: 8337785309259831269
+    second: Polar_Ocean_Temple_Doors_1
+  - first:
+      213: 6301885134809051883
+    second: Polar_Ocean_Temple_Doors_2
+  - first:
+      213: -6067631516477139548
+    second: Polar_Ocean_Temple_Doors_3
+  - first:
+      213: -709799226623857766
+    second: Polar_Ocean_Temple_Doors_4
+  - first:
+      213: -8018987312650395142
+    second: Polar_Ocean_Temple_Doors_5
+  - first:
+      213: -1830285624317451777
+    second: Polar_Ocean_Temple_Doors_6
+  - first:
+      213: -3505329703608438076
+    second: Polar_Ocean_Temple_Doors_7
+  - first:
+      213: -8620509626050100211
+    second: Polar_Ocean_Temple_Doors_8
+  - first:
+      213: -1767529870089798897
+    second: Polar_Ocean_Temple_Doors_9
+  - first:
+      213: -8029742419513857366
+    second: Polar_Ocean_Temple_Doors_10
+  - first:
+      213: -2561213850529837406
+    second: Polar_Ocean_Temple_Doors_11
+  - first:
+      213: -5366014875446139767
+    second: Polar_Ocean_Temple_Doors_12
+  - first:
+      213: 1925397944672473344
+    second: Polar_Ocean_Temple_Doors_13
+  - first:
+      213: 2887377522243358525
+    second: Polar_Ocean_Temple_Doors_14
+  - first:
+      213: -2723634647686579585
+    second: Polar_Ocean_Temple_Doors_15
+  - first:
+      213: -5215292924038990260
+    second: Polar_Ocean_Temple_Doors_16
+  - first:
+      213: 716515085446571927
+    second: Polar_Ocean_Temple_Doors_17
+  - first:
+      213: -2696142396772535180
+    second: Polar_Ocean_Temple_Doors_18
+  - first:
+      213: 1899749294673449316
+    second: Polar_Ocean_Temple_Doors_19
+  - first:
+      213: -4668235443828621541
+    second: Polar_Ocean_Temple_Doors_20
+  - first:
+      213: -2632299871741675803
+    second: Polar_Ocean_Temple_Doors_21
+  - first:
+      213: 4617064166157931635
+    second: Polar_Ocean_Temple_Doors_22
+  - first:
+      213: -9069862304654088587
+    second: Polar_Ocean_Temple_Doors_23
+  - first:
+      213: 6477968718635496545
+    second: Polar_Ocean_Temple_Doors_24
+  - first:
+      213: 1483870690256528503
+    second: Polar_Ocean_Temple_Doors_25
+  - first:
+      213: -8446874762819885570
+    second: Polar_Ocean_Temple_Doors_26
+  - first:
+      213: -5759606890535891662
+    second: Polar_Ocean_Temple_Doors_27
+  - first:
+      213: 7163076368626343950
+    second: Polar_Ocean_Temple_Doors_28
+  - first:
+      213: -3525819174771529041
+    second: Polar_Ocean_Temple_Doors_29
+  - first:
+      213: 968760614625380071
+    second: Polar_Ocean_Temple_Doors_30
+  - first:
+      213: -1072389720406013590
+    second: Polar_Ocean_Temple_Doors_31
+  - first:
+      213: 6483345548963970289
+    second: Polar_Ocean_Temple_Doors_32
+  - first:
+      213: -7141067487112631310
+    second: Polar_Ocean_Temple_Doors_33
+  - first:
+      213: 2642392145829064041
+    second: Polar_Ocean_Temple_Doors_34
+  - first:
+      213: 617501641865993952
+    second: Polar_Ocean_Temple_Doors_35
+  - first:
+      213: -1070035653721171855
+    second: Polar_Ocean_Temple_Doors_36
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 50
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccb451efd59e5b1a0800000000000000
+      internalID: -6794267872914486324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_1
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 50
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e717e33093c5b370800000000000000
+      internalID: 8337785309259831269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_2
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 50
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2bb9b242bc47750800000000000000
+      internalID: 6301885134809051883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_3
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 50
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a55a6098417bcba0800000000000000
+      internalID: -6067631516477139548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_4
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bec333d594626f0800000000000000
+      internalID: -709799226623857766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_5
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1eb1b8685d6b090800000000000000
+      internalID: -8018987312650395142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_6
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1ed050ce48996e0800000000000000
+      internalID: -1830285624317451777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_7
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 58
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c23bc3e4319a5fc0800000000000000
+      internalID: -3505329703608438076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_8
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d04c2742b2ccd5880800000000000000
+      internalID: -8620509626050100211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_9
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0bb76ba2f87877e0800000000000000
+      internalID: -1767529870089798897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_10
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaaadf610df909090800000000000000
+      internalID: -8029742419513857366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_11
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aecb55a29db47cd0800000000000000
+      internalID: -2561213850529837406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_12
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9842291b6e51885b0800000000000000
+      internalID: -5366014875446139767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_13
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001587fba3368ba10800000000000000
+      internalID: 1925397944672473344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_14
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f43c9fe86021820800000000000000
+      internalID: 2887377522243358525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_15
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 34
+        width: 10
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7af1b6e7b4b33ad0800000000000000
+      internalID: -2723634647686579585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_16
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 66
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c463c07a7be8f97b0800000000000000
+      internalID: -5215292924038990260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_17
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 57
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79760488ca291f900800000000000000
+      internalID: 716515085446571927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 25
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474b08066c0659ad0800000000000000
+      internalID: -2696142396772535180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 25
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4615f4f0be34d5a10800000000000000
+      internalID: 1899749294673449316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_20
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 25
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ff4b2e898173fb0800000000000000
+      internalID: -4668235443828621541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 25
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e6f7829631387bd0800000000000000
+      internalID: -2632299871741675803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_22
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3745709956b131040800000000000000
+      internalID: 4617064166157931635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_23
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5762361c940612280800000000000000
+      internalID: -9069862304654088587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_24
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1647c545a3e56e950800000000000000
+      internalID: 6477968718635496545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_25
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 41
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774aa59e784c79410800000000000000
+      internalID: 1483870690256528503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_26
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 48
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef5a8eb182ca6ca80800000000000000
+      internalID: -8446874762819885570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_27
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 39
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d47bb7c04c110b0800000000000000
+      internalID: -5759606890535891662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_28
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e00e7f2710c586360800000000000000
+      internalID: 7163076368626343950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_29
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa6b712426c11fc0800000000000000
+      internalID: -3525819174771529041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_30
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6822375aab17d00800000000000000
+      internalID: 968760614625380071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_31
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 24
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a694b662b3b1e11f0800000000000000
+      internalID: -1072389720406013590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 30
+        width: 50
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc7b123d6879f950800000000000000
+      internalID: 6483345548963970289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb6f8994f4d5ec90800000000000000
+      internalID: -7141067487112631310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_34
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d6c6918a9aba420800000000000000
+      internalID: 2642392145829064041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee94abb87ec19800800000000000000
+      internalID: 617501641865993952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Polar_Ocean_Temple_Doors_36
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17852f20e387621f0800000000000000
+      internalID: -1070035653721171855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Polar_Ocean_Temple_Doors_0: -6794267872914486324
+      Polar_Ocean_Temple_Doors_1: 8337785309259831269
+      Polar_Ocean_Temple_Doors_10: -8029742419513857366
+      Polar_Ocean_Temple_Doors_11: -2561213850529837406
+      Polar_Ocean_Temple_Doors_12: -5366014875446139767
+      Polar_Ocean_Temple_Doors_13: 1925397944672473344
+      Polar_Ocean_Temple_Doors_14: 2887377522243358525
+      Polar_Ocean_Temple_Doors_15: -2723634647686579585
+      Polar_Ocean_Temple_Doors_16: -5215292924038990260
+      Polar_Ocean_Temple_Doors_17: 716515085446571927
+      Polar_Ocean_Temple_Doors_18: -2696142396772535180
+      Polar_Ocean_Temple_Doors_19: 1899749294673449316
+      Polar_Ocean_Temple_Doors_2: 6301885134809051883
+      Polar_Ocean_Temple_Doors_20: -4668235443828621541
+      Polar_Ocean_Temple_Doors_21: -2632299871741675803
+      Polar_Ocean_Temple_Doors_22: 4617064166157931635
+      Polar_Ocean_Temple_Doors_23: -9069862304654088587
+      Polar_Ocean_Temple_Doors_24: 6477968718635496545
+      Polar_Ocean_Temple_Doors_25: 1483870690256528503
+      Polar_Ocean_Temple_Doors_26: -8446874762819885570
+      Polar_Ocean_Temple_Doors_27: -5759606890535891662
+      Polar_Ocean_Temple_Doors_28: 7163076368626343950
+      Polar_Ocean_Temple_Doors_29: -3525819174771529041
+      Polar_Ocean_Temple_Doors_3: -6067631516477139548
+      Polar_Ocean_Temple_Doors_30: 968760614625380071
+      Polar_Ocean_Temple_Doors_31: -1072389720406013590
+      Polar_Ocean_Temple_Doors_32: 6483345548963970289
+      Polar_Ocean_Temple_Doors_33: -7141067487112631310
+      Polar_Ocean_Temple_Doors_34: 2642392145829064041
+      Polar_Ocean_Temple_Doors_35: 617501641865993952
+      Polar_Ocean_Temple_Doors_36: -1070035653721171855
+      Polar_Ocean_Temple_Doors_4: -709799226623857766
+      Polar_Ocean_Temple_Doors_5: -8018987312650395142
+      Polar_Ocean_Temple_Doors_6: -1830285624317451777
+      Polar_Ocean_Temple_Doors_7: -3505329703608438076
+      Polar_Ocean_Temple_Doors_8: -8620509626050100211
+      Polar_Ocean_Temple_Doors_9: -1767529870089798897
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
