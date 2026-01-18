@@ -67,6 +67,8 @@ public class GameController : MonoBehaviour
             {
                 damageAnimation.DeathColor();
             }
+            
+            StartCoroutine(DeathTransition());
         }
         else
         {
