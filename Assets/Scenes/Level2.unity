@@ -4065,6 +4065,10 @@ PrefabInstance:
       propertyPath: globalLight
       value: 
       objectReference: {fileID: 2050004583}
+    - target: {fileID: 5092320975056148849, guid: 9297aed2e948a4cba960d4c58ed55e71, type: 3}
+      propertyPath: testDoomSlider
+      value: 0.665
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
