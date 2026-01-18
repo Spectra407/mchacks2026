@@ -5,6 +5,6 @@ public class SceneTransition : MonoBehaviour
 {
     public void StartGame()
     {
-        SceneManager.LoadSceneAsync("SampleScene");
+        SceneManager.LoadSceneAsync("Level1");
     }
 }
