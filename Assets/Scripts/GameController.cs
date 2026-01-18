@@ -34,6 +34,7 @@ public class GameController : MonoBehaviour
         }
     }
 
+
     void DecreaseHealthAmount()
     {
         if (HealthAmount <= 0f && Health)
@@ -48,6 +49,15 @@ public class GameController : MonoBehaviour
             HealthSlider.value = HealthAmount;
         }
     }
+    // GameController.cs
+    public void Kill()
+    {
+        HealthAmount = 0f;
+        HealthSlider.value = 0f;
+        UnityEngine.Debug.Log("You Died lol!!!");
+        Health = false;
+    }
+
     // Update is called once per frame
     void Update()
     {
