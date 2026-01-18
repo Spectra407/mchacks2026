@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 3981385734770663735}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PointA
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -44,7 +44,7 @@ GameObject:
   - component: {fileID: 544190968085917887}
   - component: {fileID: 1651087772183266207}
   - component: {fileID: 4020688522179126681}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Oils
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -111,8 +111,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 2095726169
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: 1309489925366895345, guid: 04bc36f9622a46a33933f18200ec3f18, type: 3}
@@ -210,7 +210,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 6384419463776720912}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PointB
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -241,7 +241,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4258859892604781191}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Oil's Movement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
