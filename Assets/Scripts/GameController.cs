@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine.UI;
 using System.Diagnostics;
+using UnityEngine.SceneManagement;
 
 
 public class GameController : MonoBehaviour
@@ -15,7 +16,14 @@ public class GameController : MonoBehaviour
     public float healthDrainPerSecond = 1f;
     public float minDamageCooldown = 2f;
     public float maxDamageCooldown = 3f;
-    public float nextDamageTime = 0f;
+    float nextDamageTime = 0f;
+
+    // Animations
+
+    public Animator canvasAnimator;
+    public string triggerName = "Death";
+    public float animationLength = 2f;
+    private bool triggered = false;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -33,6 +41,8 @@ public class GameController : MonoBehaviour
 
     void IncreaseHealthAmount(float amount)
     {
+        if (HealthAmount > 0)
+        {
         HealthAmount = Math.Min(HealthAmount + amount, 100f);
         HealthSlider.value = HealthAmount;
 
@@ -41,12 +51,14 @@ public class GameController : MonoBehaviour
             HealthSlider.value = 100f;           
             UnityEngine.Debug.Log("Next Level");
         }
+
+    }
     }
 
 
     void DecreaseHealthAmount()
     {
-        if (HealthAmount <= 0f && Health)
+        if (HealthAmount <= 0f && Health && !triggered)
         {
             HealthAmount = 0f;
             UnityEngine.Debug.Log("You Died lol!!!");
@@ -62,6 +74,27 @@ public class GameController : MonoBehaviour
             HealthSlider.value = HealthAmount;
         }
     }
+
+    // DeathTransition to beginning of scene again
+
+    private IEnumerator DeathTransition()
+    {
+        if (canvasAnimator != null)
+        {
+            canvasAnimator.SetTrigger(triggerName);
+            UnityEngine.Debug.Log("It's working");
+        }
+        else
+        {
+            UnityEngine.Debug.LogWarning("Canvas Animator is not assigned!");
+        }
+
+        yield return new WaitForSeconds(animationLength);
+
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    
+    }
+
     // GameController.cs
     public void Kill()
     {
