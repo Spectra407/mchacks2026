@@ -122,7 +122,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 0
+  m_WasSpriteAssigned: 1
   m_SpriteSortPoint: 0
 --- !u!58 &3505481006624805258
 CircleCollider2D:
@@ -172,10 +172,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5fa3f290b0d944271a7a99decaa22c51, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Orcas
-  damage: 1
-  MoveSpeed: 1
-  minDamageCooldown: 2
-  maxDamageCooldown: 3
+  damage: 50
+  MoveSpeed: 10
+  minDamageCooldown: 1
+  maxDamageCooldown: 1
   PointA: {fileID: 2454158289112935960}
   PointB: {fileID: 497583363623445316}
 --- !u!1 &7778974206421492325
