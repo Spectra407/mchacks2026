@@ -370,7 +370,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -384,7 +384,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 7
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -408,7 +408,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -429,6 +429,19 @@ TextureImporter:
     ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
     sprites:
@@ -436,12 +449,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 54
-        width: 10
-        height: 10
+        x: 1
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -458,12 +471,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 45
-        width: 10
-        height: 10
+        x: 10
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -480,12 +493,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_2
       rect:
         serializedVersion: 2
-        x: 9
-        y: 54
-        width: 10
-        height: 10
+        x: 19
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -502,12 +515,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_3
       rect:
         serializedVersion: 2
-        x: 9
-        y: 45
-        width: 10
-        height: 10
+        x: 28
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -524,12 +537,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_4
       rect:
         serializedVersion: 2
-        x: 18
-        y: 54
-        width: 10
-        height: 10
+        x: 37
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -546,12 +559,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_5
       rect:
         serializedVersion: 2
-        x: 18
-        y: 45
-        width: 10
-        height: 10
+        x: 46
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -568,12 +581,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_6
       rect:
         serializedVersion: 2
-        x: 27
-        y: 54
-        width: 10
-        height: 10
+        x: 55
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -590,12 +603,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_7
       rect:
         serializedVersion: 2
-        x: 27
-        y: 45
-        width: 10
-        height: 10
+        x: 64
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -612,12 +625,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_8
       rect:
         serializedVersion: 2
-        x: 36
-        y: 54
-        width: 10
-        height: 10
+        x: 73
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -634,12 +647,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_9
       rect:
         serializedVersion: 2
-        x: 36
-        y: 45
-        width: 10
-        height: 10
+        x: 82
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -656,12 +669,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_10
       rect:
         serializedVersion: 2
-        x: 45
-        y: 54
-        width: 10
-        height: 10
+        x: 91
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -678,12 +691,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_11
       rect:
         serializedVersion: 2
-        x: 45
-        y: 45
-        width: 10
-        height: 10
+        x: 100
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -700,12 +713,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_12
       rect:
         serializedVersion: 2
-        x: 54
-        y: 54
-        width: 10
-        height: 10
+        x: 109
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -722,12 +735,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_13
       rect:
         serializedVersion: 2
-        x: 54
-        y: 45
-        width: 10
-        height: 10
+        x: 118
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -744,12 +757,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_14
       rect:
         serializedVersion: 2
-        x: 63
-        y: 54
-        width: 10
-        height: 10
+        x: 127
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -766,12 +779,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_15
       rect:
         serializedVersion: 2
-        x: 63
-        y: 45
-        width: 10
-        height: 10
+        x: 136
+        y: 55
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -788,12 +801,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_16
       rect:
         serializedVersion: 2
-        x: 72
-        y: 54
-        width: 10
-        height: 10
+        x: 1
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -810,12 +823,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_17
       rect:
         serializedVersion: 2
-        x: 72
-        y: 45
-        width: 10
-        height: 10
+        x: 10
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -832,12 +845,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_18
       rect:
         serializedVersion: 2
-        x: 81
-        y: 54
-        width: 10
-        height: 10
+        x: 19
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -854,12 +867,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_19
       rect:
         serializedVersion: 2
-        x: 81
-        y: 45
-        width: 10
-        height: 10
+        x: 28
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -876,12 +889,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_20
       rect:
         serializedVersion: 2
-        x: 90
-        y: 54
-        width: 10
-        height: 10
+        x: 37
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -898,12 +911,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_21
       rect:
         serializedVersion: 2
-        x: 90
-        y: 45
-        width: 10
-        height: 10
+        x: 46
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -920,12 +933,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_22
       rect:
         serializedVersion: 2
-        x: 99
-        y: 54
-        width: 10
-        height: 10
+        x: 55
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -942,12 +955,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_23
       rect:
         serializedVersion: 2
-        x: 99
-        y: 45
-        width: 10
-        height: 10
+        x: 64
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -964,12 +977,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_24
       rect:
         serializedVersion: 2
-        x: 108
-        y: 54
-        width: 10
-        height: 10
+        x: 73
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -986,12 +999,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_25
       rect:
         serializedVersion: 2
-        x: 108
-        y: 45
-        width: 10
-        height: 10
+        x: 82
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1008,12 +1021,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_26
       rect:
         serializedVersion: 2
-        x: 117
-        y: 54
-        width: 10
-        height: 10
+        x: 91
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1030,12 +1043,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_27
       rect:
         serializedVersion: 2
-        x: 117
-        y: 45
-        width: 10
-        height: 10
+        x: 100
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1052,12 +1065,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_28
       rect:
         serializedVersion: 2
-        x: 126
-        y: 54
-        width: 10
-        height: 10
+        x: 109
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1074,12 +1087,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_29
       rect:
         serializedVersion: 2
-        x: 126
-        y: 45
-        width: 10
-        height: 10
+        x: 118
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1096,12 +1109,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_30
       rect:
         serializedVersion: 2
-        x: 135
-        y: 54
-        width: 10
-        height: 10
+        x: 127
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1118,12 +1131,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_31
       rect:
         serializedVersion: 2
-        x: 135
-        y: 45
-        width: 10
-        height: 10
+        x: 136
+        y: 46
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1140,12 +1153,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_32
       rect:
         serializedVersion: 2
-        x: 0
-        y: 36
-        width: 10
-        height: 10
+        x: 1
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1162,12 +1175,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_33
       rect:
         serializedVersion: 2
-        x: 0
-        y: 27
-        width: 10
-        height: 10
+        x: 10
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1184,12 +1197,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_34
       rect:
         serializedVersion: 2
-        x: 9
-        y: 36
-        width: 10
-        height: 10
+        x: 19
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1206,12 +1219,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_35
       rect:
         serializedVersion: 2
-        x: 9
-        y: 27
-        width: 10
-        height: 10
+        x: 28
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1228,12 +1241,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_36
       rect:
         serializedVersion: 2
-        x: 18
-        y: 36
-        width: 10
-        height: 10
+        x: 37
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1250,12 +1263,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_37
       rect:
         serializedVersion: 2
-        x: 18
-        y: 27
-        width: 10
-        height: 10
+        x: 46
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1272,12 +1285,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_38
       rect:
         serializedVersion: 2
-        x: 27
-        y: 36
-        width: 10
-        height: 10
+        x: 55
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1294,12 +1307,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_39
       rect:
         serializedVersion: 2
-        x: 27
-        y: 27
-        width: 10
-        height: 10
+        x: 64
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1316,12 +1329,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_40
       rect:
         serializedVersion: 2
-        x: 36
-        y: 36
-        width: 10
-        height: 10
+        x: 73
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1338,12 +1351,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_41
       rect:
         serializedVersion: 2
-        x: 36
-        y: 27
-        width: 10
-        height: 10
+        x: 82
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1360,12 +1373,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_42
       rect:
         serializedVersion: 2
-        x: 45
-        y: 36
-        width: 10
-        height: 10
+        x: 91
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1382,12 +1395,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_43
       rect:
         serializedVersion: 2
-        x: 45
-        y: 27
-        width: 10
-        height: 10
+        x: 100
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1404,12 +1417,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_44
       rect:
         serializedVersion: 2
-        x: 54
-        y: 36
-        width: 10
-        height: 10
+        x: 109
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1426,12 +1439,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_45
       rect:
         serializedVersion: 2
-        x: 54
-        y: 27
-        width: 10
-        height: 10
+        x: 118
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1448,12 +1461,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_46
       rect:
         serializedVersion: 2
-        x: 63
-        y: 36
-        width: 10
-        height: 10
+        x: 127
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1470,12 +1483,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_47
       rect:
         serializedVersion: 2
-        x: 63
-        y: 27
-        width: 10
-        height: 10
+        x: 136
+        y: 37
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1492,12 +1505,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_48
       rect:
         serializedVersion: 2
-        x: 72
-        y: 36
-        width: 10
-        height: 10
+        x: 1
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1514,12 +1527,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_49
       rect:
         serializedVersion: 2
-        x: 72
-        y: 27
-        width: 10
-        height: 10
+        x: 10
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1536,12 +1549,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_50
       rect:
         serializedVersion: 2
-        x: 81
-        y: 36
-        width: 10
-        height: 10
+        x: 19
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1558,12 +1571,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_51
       rect:
         serializedVersion: 2
-        x: 81
-        y: 27
-        width: 10
-        height: 10
+        x: 28
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1580,12 +1593,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_52
       rect:
         serializedVersion: 2
-        x: 90
-        y: 36
-        width: 10
-        height: 10
+        x: 37
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1602,12 +1615,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_53
       rect:
         serializedVersion: 2
-        x: 90
-        y: 27
-        width: 10
-        height: 10
+        x: 46
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1624,12 +1637,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_54
       rect:
         serializedVersion: 2
-        x: 99
-        y: 36
-        width: 10
-        height: 10
+        x: 55
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1646,12 +1659,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_55
       rect:
         serializedVersion: 2
-        x: 99
-        y: 27
-        width: 10
-        height: 10
+        x: 64
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1668,12 +1681,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_56
       rect:
         serializedVersion: 2
-        x: 108
-        y: 36
-        width: 10
-        height: 10
+        x: 73
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1690,12 +1703,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_57
       rect:
         serializedVersion: 2
-        x: 108
-        y: 27
-        width: 10
-        height: 10
+        x: 82
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1712,12 +1725,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_58
       rect:
         serializedVersion: 2
-        x: 117
-        y: 36
-        width: 10
-        height: 10
+        x: 91
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1734,12 +1747,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_59
       rect:
         serializedVersion: 2
-        x: 117
-        y: 27
-        width: 10
-        height: 10
+        x: 100
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1756,12 +1769,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_60
       rect:
         serializedVersion: 2
-        x: 126
-        y: 36
-        width: 10
-        height: 10
+        x: 109
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1778,12 +1791,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_61
       rect:
         serializedVersion: 2
-        x: 126
-        y: 27
-        width: 10
-        height: 10
+        x: 118
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1800,12 +1813,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_62
       rect:
         serializedVersion: 2
-        x: 135
-        y: 36
-        width: 10
-        height: 10
+        x: 127
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1822,12 +1835,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_63
       rect:
         serializedVersion: 2
-        x: 135
-        y: 27
-        width: 10
-        height: 10
+        x: 136
+        y: 28
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1844,12 +1857,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_64
       rect:
         serializedVersion: 2
-        x: 0
-        y: 18
-        width: 10
-        height: 10
+        x: 1
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1866,12 +1879,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_65
       rect:
         serializedVersion: 2
-        x: 0
-        y: 9
-        width: 10
-        height: 10
+        x: 10
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1888,12 +1901,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_66
       rect:
         serializedVersion: 2
-        x: 9
-        y: 18
-        width: 10
-        height: 10
+        x: 19
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1910,12 +1923,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_67
       rect:
         serializedVersion: 2
-        x: 9
-        y: 9
-        width: 10
-        height: 10
+        x: 28
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1932,12 +1945,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_68
       rect:
         serializedVersion: 2
-        x: 18
-        y: 18
-        width: 10
-        height: 10
+        x: 37
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1954,12 +1967,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_69
       rect:
         serializedVersion: 2
-        x: 18
-        y: 9
-        width: 10
-        height: 10
+        x: 46
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1976,12 +1989,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_70
       rect:
         serializedVersion: 2
-        x: 27
-        y: 18
-        width: 10
-        height: 10
+        x: 55
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -1998,12 +2011,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_71
       rect:
         serializedVersion: 2
-        x: 27
-        y: 9
-        width: 10
-        height: 10
+        x: 64
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2020,12 +2033,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_72
       rect:
         serializedVersion: 2
-        x: 36
-        y: 18
-        width: 10
-        height: 10
+        x: 73
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2042,12 +2055,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_73
       rect:
         serializedVersion: 2
-        x: 36
-        y: 9
-        width: 10
-        height: 10
+        x: 82
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2064,12 +2077,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_74
       rect:
         serializedVersion: 2
-        x: 45
-        y: 18
-        width: 10
-        height: 10
+        x: 91
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2086,12 +2099,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_75
       rect:
         serializedVersion: 2
-        x: 45
-        y: 9
-        width: 10
-        height: 10
+        x: 100
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2108,12 +2121,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_76
       rect:
         serializedVersion: 2
-        x: 54
-        y: 18
-        width: 10
-        height: 10
+        x: 109
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2130,12 +2143,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_77
       rect:
         serializedVersion: 2
-        x: 54
-        y: 9
-        width: 10
-        height: 10
+        x: 118
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2152,12 +2165,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_78
       rect:
         serializedVersion: 2
-        x: 63
-        y: 18
-        width: 10
-        height: 10
+        x: 127
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2174,12 +2187,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_79
       rect:
         serializedVersion: 2
-        x: 63
-        y: 9
-        width: 10
-        height: 10
+        x: 136
+        y: 19
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2196,12 +2209,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_80
       rect:
         serializedVersion: 2
-        x: 72
-        y: 18
-        width: 10
-        height: 10
+        x: 1
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2218,12 +2231,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_81
       rect:
         serializedVersion: 2
-        x: 72
-        y: 9
-        width: 10
-        height: 10
+        x: 10
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2240,12 +2253,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_82
       rect:
         serializedVersion: 2
-        x: 81
-        y: 18
-        width: 10
-        height: 10
+        x: 19
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2262,12 +2275,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_83
       rect:
         serializedVersion: 2
-        x: 81
-        y: 9
-        width: 10
-        height: 10
+        x: 28
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2284,12 +2297,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_84
       rect:
         serializedVersion: 2
-        x: 90
-        y: 18
-        width: 10
-        height: 10
+        x: 37
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2306,12 +2319,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_85
       rect:
         serializedVersion: 2
-        x: 90
-        y: 9
-        width: 10
-        height: 10
+        x: 46
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2328,12 +2341,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_86
       rect:
         serializedVersion: 2
-        x: 99
-        y: 18
-        width: 10
-        height: 10
+        x: 55
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2350,12 +2363,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_87
       rect:
         serializedVersion: 2
-        x: 99
-        y: 9
-        width: 10
-        height: 10
+        x: 64
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2372,12 +2385,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_88
       rect:
         serializedVersion: 2
-        x: 108
-        y: 18
-        width: 10
-        height: 10
+        x: 73
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2394,12 +2407,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_89
       rect:
         serializedVersion: 2
-        x: 108
-        y: 9
-        width: 10
-        height: 10
+        x: 82
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2416,12 +2429,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_90
       rect:
         serializedVersion: 2
-        x: 117
-        y: 18
-        width: 10
-        height: 10
+        x: 91
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2438,12 +2451,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_91
       rect:
         serializedVersion: 2
-        x: 117
-        y: 9
-        width: 10
-        height: 10
+        x: 100
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2460,12 +2473,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_92
       rect:
         serializedVersion: 2
-        x: 126
-        y: 18
-        width: 10
-        height: 10
+        x: 109
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2482,12 +2495,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_93
       rect:
         serializedVersion: 2
-        x: 126
-        y: 9
-        width: 10
-        height: 10
+        x: 118
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2504,12 +2517,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_94
       rect:
         serializedVersion: 2
-        x: 135
-        y: 18
-        width: 10
-        height: 10
+        x: 127
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2526,12 +2539,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_95
       rect:
         serializedVersion: 2
-        x: 135
-        y: 9
-        width: 10
-        height: 10
+        x: 136
+        y: 10
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2548,12 +2561,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_96
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 10
-        height: 10
+        x: 1
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2570,12 +2583,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_97
       rect:
         serializedVersion: 2
-        x: 9
-        y: 0
-        width: 10
-        height: 10
+        x: 10
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2592,12 +2605,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_98
       rect:
         serializedVersion: 2
-        x: 18
-        y: 0
-        width: 10
-        height: 10
+        x: 19
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2614,12 +2627,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_99
       rect:
         serializedVersion: 2
-        x: 27
-        y: 0
-        width: 10
-        height: 10
+        x: 28
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2636,12 +2649,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_100
       rect:
         serializedVersion: 2
-        x: 36
-        y: 0
-        width: 10
-        height: 10
+        x: 37
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2658,12 +2671,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_101
       rect:
         serializedVersion: 2
-        x: 45
-        y: 0
-        width: 10
-        height: 10
+        x: 46
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2680,12 +2693,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_102
       rect:
         serializedVersion: 2
-        x: 54
-        y: 0
-        width: 10
-        height: 10
+        x: 55
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2702,12 +2715,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_103
       rect:
         serializedVersion: 2
-        x: 63
-        y: 0
-        width: 10
-        height: 10
+        x: 64
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2724,12 +2737,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_104
       rect:
         serializedVersion: 2
-        x: 72
-        y: 0
-        width: 10
-        height: 10
+        x: 73
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2746,12 +2759,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_105
       rect:
         serializedVersion: 2
-        x: 81
-        y: 0
-        width: 10
-        height: 10
+        x: 82
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2768,12 +2781,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_106
       rect:
         serializedVersion: 2
-        x: 90
-        y: 0
-        width: 10
-        height: 10
+        x: 91
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2790,12 +2803,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_107
       rect:
         serializedVersion: 2
-        x: 99
-        y: 0
-        width: 10
-        height: 10
+        x: 100
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2812,12 +2825,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_108
       rect:
         serializedVersion: 2
-        x: 108
-        y: 0
-        width: 10
-        height: 10
+        x: 109
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2834,12 +2847,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_109
       rect:
         serializedVersion: 2
-        x: 117
-        y: 0
-        width: 10
-        height: 10
+        x: 118
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2856,12 +2869,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_110
       rect:
         serializedVersion: 2
-        x: 126
-        y: 0
-        width: 10
-        height: 10
+        x: 127
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2878,12 +2891,12 @@ TextureImporter:
       name: Polar_Ocean_Glacier_111
       rect:
         serializedVersion: 2
-        x: 135
-        y: 0
-        width: 10
-        height: 10
+        x: 136
+        y: 1
+        width: 8
+        height: 8
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
@@ -2900,7 +2913,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 227804f10e248451c8f381c99c9f870c
     internalID: 0
     vertices: []
     indices: 
@@ -2908,7 +2921,9 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     spriteCustomMetadata:
-      entries: []
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":9.0,"y":10.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
     nameFileIdTable:
       Polar_Ocean_Glacier_0: -4214583757898097404
       Polar_Ocean_Glacier_1: -1346872753593035205
