@@ -27,12 +27,15 @@ public class LevelTransition : MonoBehaviour
     private IEnumerator PlayAnimationAndLoadNextLevel()
     {
         // 1️⃣ Wait before starting the animation
+        Debug.Log("Coroutine Started");
+
         yield return new WaitForSeconds(delayBeforeAnimation);
 
         // 2️⃣ Trigger the animation on the Canvas
         if (canvasAnimator != null)
         {
             canvasAnimator.SetTrigger(triggerName);
+            Debug.Log("Next level transition");
         }
         else
         {
