@@ -195,7 +195,7 @@ GameObject:
   - component: {fileID: 85711277}
   - component: {fileID: 85711278}
   m_Layer: 5
-  m_Name: ProgressBar
+  m_Name: HealthBar
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1040,7 +1040,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5efaef306f16d4d62a61559504561baf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::GameController
-  progressSlider: {fileID: 85711278}
+  HealthSlider: {fileID: 85711278}
+  healthDrainPerSecond: 1
 --- !u!4 &944084312
 Transform:
   m_ObjectHideFlags: 0
@@ -1141,8 +1142,16 @@ PrefabInstance:
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 4132737687826349494, guid: 401bf51e973a54ace8022a240db7b7a5, type: 3}
+      propertyPath: m_Radius
+      value: 0.5
+      objectReference: {fileID: 0}
+    - target: {fileID: 4132737687826349494, guid: 401bf51e973a54ace8022a240db7b7a5, type: 3}
+      propertyPath: m_Offset.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4132737687826349494, guid: 401bf51e973a54ace8022a240db7b7a5, type: 3}
       propertyPath: m_IsTrigger
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 4250609831653496219, guid: 401bf51e973a54ace8022a240db7b7a5, type: 3}
       propertyPath: m_Name
@@ -1736,7 +1745,6 @@ SceneRoots:
   m_ObjectHideFlags: 0
   m_Roots:
   - {fileID: 258922832}
-  - {fileID: 6819147444667505808}
   - {fileID: 1694128364}
   - {fileID: 470161781}
   - {fileID: 2124606696}
@@ -1745,3 +1753,4 @@ SceneRoots:
   - {fileID: 1571740620}
   - {fileID: 876148238}
   - {fileID: 61376220}
+  - {fileID: 6819147444667505808}
