@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 5132829722658666380}
   - component: {fileID: 7971272991519320237}
   - component: {fileID: 5170319569576668066}
-  - component: {fileID: 6081625426075182587}
+  - component: {fileID: 4076280506038977070}
   m_Layer: 0
   m_Name: SpikeTrap
   m_TagString: Untagged
@@ -106,8 +106,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: '::'
   damage: 100
---- !u!58 &6081625426075182587
-CircleCollider2D:
+--- !u!61 &4076280506038977070
+BoxCollider2D:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
@@ -141,4 +141,14 @@ CircleCollider2D:
   m_CompositeOperation: 0
   m_CompositeOrder: 0
   m_Offset: {x: 0, y: 0}
-  m_Radius: 0.08
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0.5, y: 0.5}
+    oldSize: {x: 0.16, y: 0.1}
+    newSize: {x: 0.16, y: 0.1}
+    adaptiveTilingThreshold: 0.5
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  m_Size: {x: 0.16, y: 0.1}
+  m_EdgeRadius: 0
