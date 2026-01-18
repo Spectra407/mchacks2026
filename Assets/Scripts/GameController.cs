@@ -10,11 +10,12 @@ public class GameController : MonoBehaviour
 {
     float HealthAmount;
     public Slider HealthSlider;
+    public DamageAnimation damageAnimation;
     bool Health = true;
     public float healthDrainPerSecond = 1f;
     public float minDamageCooldown = 2f;
     public float maxDamageCooldown = 3f;
-    float nextDamageTime = 0f;
+    public float nextDamageTime = 0f;
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -22,6 +23,11 @@ public class GameController : MonoBehaviour
         HealthSlider.value = 100f;
         HealthAmount = 100f;
         Fish.OnFishCollect += IncreaseHealthAmount;
+
+        if (damageAnimation == null)
+        {
+            damageAnimation = FindFirstObjectByType<DamageAnimation>();
+        }
         
     }
 
@@ -45,6 +51,10 @@ public class GameController : MonoBehaviour
             HealthAmount = 0f;
             UnityEngine.Debug.Log("You Died lol!!!");
             Health = false;
+            if (damageAnimation != null)
+            {
+                damageAnimation.DeathColor();
+            }
         }
         else
         {
@@ -57,8 +67,6 @@ public class GameController : MonoBehaviour
     {
         HealthAmount = 0f;
         HealthSlider.value = 0f;
-        UnityEngine.Debug.Log("You Died lol!!!");
-        Health = false;
     }
 
     public void EnemyDamage(float amount)
@@ -71,8 +79,18 @@ public class GameController : MonoBehaviour
         HealthAmount -=amount;
         UnityEngine.Debug.Log("You have been hit");
         nextDamageTime = Time.time + UnityEngine.Random.Range(minDamageCooldown, maxDamageCooldown);
+        if (damageAnimation != null)
+        {
+            StartCoroutine(damageAnimation.FlashDamage());
+        }
+    }
+
+    public float NextDamageTime()
+    {
+        return nextDamageTime;
     }
     // Update is called once per frame
+
     void Update()
     {
         DecreaseHealthAmount();
