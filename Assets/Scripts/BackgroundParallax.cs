@@ -2,34 +2,42 @@ using UnityEngine;
 
 public class InfiniteParallax : MonoBehaviour
 {
+    [Header("Settings")] // This creates a bold title in the Inspector
     public Camera cam;
-    public float parallaxEffect; // 1 = Sky (Static), 0.5 = Mountains, 0 = Foreground
+    public float parallaxEffect;
+    public bool lockY = false; // This should appear now
 
     private float length;
     private float startPosition;
+    private float startY;
 
     void Start()
     {
         startPosition = transform.position.x;
-        // Get the width of the sprite
+        startY = transform.position.y;
         length = GetComponent<SpriteRenderer>().bounds.size.x;
+
+        // Auto-assign camera if you forgot to drag it in
+        if (cam == null)
+        {
+            cam = Camera.main;
+        }
     }
 
-    // Changed to LateUpdate to prevent "Jitter" as the camera moves
     void LateUpdate()
     {
-        // 1. Distance the camera has moved relative to the map
+        // 1. Calculate Distances
         float dist = (cam.transform.position.x * parallaxEffect);
-
-        // 2. Distance "remaining" before we need to loop
         float temp = (cam.transform.position.x * (1 - parallaxEffect));
 
-        // 3. Move the background
-        transform.position = new Vector3(startPosition + dist, transform.position.y, transform.position.z);
+        // 2. Vertical Locking Logic
+        // If lockY is ON, we use the Camera's Y. If OFF, we use the starting Y.
+        float newY = lockY ? cam.transform.position.y : startY;
 
-        // 4. THE OPTIMIZATION: The "Leapfrog" Logic
-        // Instead of shifting by 'length' (which stacks them), we shift by 'length * 3'
-        // This jumps THIS panel over the other two to the front of the line.
+        // 3. Move the Background
+        transform.position = new Vector3(startPosition + dist, newY, transform.position.z);
+
+        // 4. Leapfrog Logic
         float totalWidth = length * 3;
 
         if (temp > startPosition + length)

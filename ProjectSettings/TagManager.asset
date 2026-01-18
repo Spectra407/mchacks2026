@@ -8,14 +8,14 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Ground
+  - Skybox
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Clouds
+  - Mountains
+  - Weather
+  - Gameplay
+  - Foreground
   - 
   - 
   - 
@@ -38,11 +38,26 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Background
-    uniqueID: 2590484143
-    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Skybox
+    uniqueID: 4216166805
+    locked: 0
+  - name: Clouds
+    uniqueID: 2492690491
+    locked: 0
+  - name: Moutains
+    uniqueID: 1668102373
+    locked: 0
+  - name: Weather
+    uniqueID: 3344874237
+    locked: 0
+  - name: Gameplay
+    uniqueID: 2095726169
+    locked: 0
+  - name: Foreground
+    uniqueID: 1777684801
     locked: 0
   m_RenderingLayers:
   - Default
