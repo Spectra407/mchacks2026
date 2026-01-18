@@ -268,7 +268,7 @@ MonoBehaviour:
   m_HandleRect: {fileID: 1539763459}
   m_Direction: 2
   m_MinValue: 0
-  m_MaxValue: 100
+  m_MaxValue: 150
   m_WholeNumbers: 0
   m_Value: 100
   m_OnValueChanged:
@@ -397,6 +397,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::PlayerMovement
   rb: {fileID: 258922830}
+  animator: {fileID: 0}
   moveSpeed: 5
   jumpPower: 10
   groundCheckPos: {fileID: 588219479}
@@ -1151,7 +1152,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 4132737687826349494, guid: 401bf51e973a54ace8022a240db7b7a5, type: 3}
       propertyPath: m_IsTrigger
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 4250609831653496219, guid: 401bf51e973a54ace8022a240db7b7a5, type: 3}
       propertyPath: m_Name

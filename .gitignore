@@ -112,4 +112,6 @@ InitTestScene*.unity*
 =======
 >>>>>>> 9810bb56441e7ca6a73bda621d7f7d566a6c0cf8
 
-*.DS_Store
+.DS_Store
+Assets/.DS_Store
+**/.DS_Store
