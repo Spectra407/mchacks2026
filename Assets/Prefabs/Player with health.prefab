@@ -381,7 +381,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: cdcae0b939cad4c299dae9449ecd6758, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::DamageAnimation
-  DamageWaitTime: 0.3
+  DamageWaitTime: 0.2
   controller: {fileID: 0}
   targetRenderer: {fileID: 0}
 --- !u!1 &7054017274918451200

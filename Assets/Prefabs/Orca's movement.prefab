@@ -9,7 +9,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2454158289112935960}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PointA
   m_TagString: Untagged
   m_Icon: {fileID: 7174288486110832750, guid: 0000000000000000d000000000000000, type: 0}
@@ -43,7 +43,7 @@ GameObject:
   - component: {fileID: 9033397462323538551}
   - component: {fileID: 3505481006624805258}
   - component: {fileID: 257211403575896191}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Orcas
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -110,8 +110,8 @@ SpriteRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_GlobalIlluminationMeshLod: 0
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
+  m_SortingLayerID: 2095726169
+  m_SortingLayer: 5
   m_SortingOrder: 0
   m_MaskInteraction: 0
   m_Sprite: {fileID: -4126574215641543396, guid: 314f42e83a57eb40284461b384ca7e04, type: 3}
@@ -122,7 +122,7 @@ SpriteRenderer:
   m_Size: {x: 1, y: 1}
   m_AdaptiveModeThreshold: 0.5
   m_SpriteTileMode: 0
-  m_WasSpriteAssigned: 1
+  m_WasSpriteAssigned: 0
   m_SpriteSortPoint: 0
 --- !u!58 &3505481006624805258
 CircleCollider2D:
@@ -187,7 +187,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 2853382324041995221}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: Orca's movement
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -221,7 +221,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 497583363623445316}
-  m_Layer: 0
+  m_Layer: 6
   m_Name: PointB
   m_TagString: Untagged
   m_Icon: {fileID: 4162164826716764455, guid: 0000000000000000d000000000000000, type: 0}
