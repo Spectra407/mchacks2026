@@ -5,6 +5,7 @@ using UnityEngine.InputSystem;
 public class PlayerMovement : MonoBehaviour
 {
     public Rigidbody2D rb;
+    public Animator animator;
     [Header("Movement")]
     public float moveSpeed = 5f;
     float horizontalMovement;
@@ -26,6 +27,10 @@ public class PlayerMovement : MonoBehaviour
     {
         rb.linearVelocity = new Vector2(horizontalMovement * moveSpeed, rb.linearVelocity.y);
         Gravity();
+
+        animator.SetFloat("yVelocity", rb.linearVelocity.y);
+        animator.SetFloat("magnitude", rb.linearVelocity.magnitude);
+        
     }
 
     private void Gravity()
@@ -54,11 +59,13 @@ public class PlayerMovement : MonoBehaviour
             {
                 // Hold down jump for full height jump
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, jumpPower);
+                animator.SetTrigger("jump");
             }
             else if (context.canceled)
             {
                 // Light tap of jump for half height jump
                 rb.linearVelocity = new Vector2(rb.linearVelocity.x, rb.linearVelocity.y * 0.5f);
+                animator.SetTrigger("jump");
             }
         }
         
